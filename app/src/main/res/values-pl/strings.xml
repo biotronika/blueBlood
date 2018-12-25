@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ustawienia</string>
+    <string name="item_title">Tytuł</string>
+    <string name="item_desc">Opis</string>
+    <string name="detail_desc">Szczegóły</string>
+    <string name="script">Lokalizacja</string>
+    <string name="script_label">Skrypt</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="description_label">Opis</string>
+    <string name="devices">Urządzenia</string>
+</resources>

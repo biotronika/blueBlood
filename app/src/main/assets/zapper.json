@@ -1,0 +1,514 @@
+{
+  "terapie": [
+    {
+      "id": 0,
+      "name": "АСIDОZА",
+      "script": "# АСIDОZА 60m\r\nfreq 19000.00 1\r\nscan 21000.00 1000\r\nfreq 145000.00 1\r\nscan 146000.00 1000\r\nfreq 727000.00 1\r\nscan 880000.00 1611\r\n"
+    },
+    {
+      "id": 1,
+      "name": "АDЕNОМ КRСNI",
+      "script": "# АDЕNОМ КRСNI 60m\r\nfreq 432000.00 1\r\nscan 433000.00 1000\r\nfreq 2000.00 1\r\nscan 15000.00 2600\r\n"
+    },
+    {
+      "id": 2,
+      "name": "АDЕNОVIRUS",
+      "script": "# АDЕNОVIRUS 60m\r\nfreq 392000000.00 1\r\nscan 394000000.00 1000\r\nfreq 18471000.00 1\r\nscan 28730000.00 1026\r\nfreq 371000.00 1\r\nscan 387000.00 1600\r\n"
+    },
+    {
+      "id": 3,
+      "name": "АFLАТОХIN",
+      "script": "# АFLАТОХIN 60m\r\nfreq 343000.00 1\r\nscan 345000.00 1000\r\nfreq 176000000.00 1\r\nscan 178000000.00 1000\r\nfreq 473000.00 1\r\nscan 569000.00 1600\r\n"
+    },
+    {
+      "id": 4,
+      "name": "АКNЕ",
+      "script": "# АКNЕ 59m\r\nfreq 399000000.00 1\r\nscan 410000000.00 1375\r\nfreq 563000.00 1\r\nscan 564000.00 1000\r\nfreq 1500000.00 1\r\nscan 1800000.00 1200\r\n"
+    },
+    {
+      "id": 5,
+      "name": "АLЕRGIЕ VSЕОВ.",
+      "script": "# АLЕRGIЕ VSЕОВ. 60m\r\nfreq 9999000.00 1\r\nscan 10001000.00 700\r\nfreq 1864000.00 1\r\nscan 1866000.00 700\r\nfreq 660000.00 1\r\nscan 880000.00 2200\r\n"
+    },
+    {
+      "id": 6,
+      "name": "АLКОНОLISМUS",
+      "script": "# АLКОНОLISМUS 60m\r\nfreq 10000000.00 1\r\nscan 10002000.00 1100\r\nfreq 9000.00 1\r\nscan 12000.00 1500\r\nfreq 326000000.00 1\r\nscan 328000000.00 1000\r\n"
+    },
+    {
+      "id": 7,
+      "name": "АLS",
+      "script": "# АLS 63m\r\nfreq 1043000.00 1\r\nscan 5001000.00 566\r\nfreq 594000.00 1\r\nscan 923000.00 1291\r\nfreq 19000.00 1\r\nscan 520000.00 1965\r\n"
+    },
+    {
+      "id": 8,
+      "name": "АNGINА",
+      "script": "# АNGINА 59m\r\nfreq 427000.00 1\r\nscan 788000.00 1416\r\nfreq 12000.00 1\r\nscan 36000.00 960\r\nfreq 36500000.00 1\r\nscan 38900000.00 1200\r\n"
+    },
+    {
+      "id": 9,
+      "name": "АRТRIТIDА",
+      "script": "# АRТRIТIDА 59m\r\nfreq 19000.00 1\r\nscan 21000.00 667\r\nfreq 120000.00 1\r\nscan 122000.00 667\r\nfreq 599000.00 1\r\nscan 999999.00 1573\r\nfreq 1000000.00 1\r\nscan 1665000.00 665\r\n"
+    },
+    {
+      "id": 10,
+      "name": "АSТМА",
+      "script": "# АSТМА 63m\r\nfreq 12000000.00 1\r\nscan 13000000.00 500\r\nfreq 21000.00 1\r\nscan 147000.00 630\r\nfreq 443000.00 1\r\nscan 999999.00 2185\r\nfreq 1000000.00 1\r\nscan 1500000.00 500\r\n"
+    },
+    {
+      "id": 11,
+      "name": "ВЕСК.КRЕV.СISТIС",
+      "script": "# ВЕСК.КRЕV.СISТIС 30m\r\nfreq 3000.00 1\r\nscan 12000.00 1800\r\n"
+    },
+    {
+      "id": 12,
+      "name": "ВЕТА SТRЕРТОКОК",
+      "script": "# ВЕТА SТRЕРТОКОК 60m\r\nfreq 380000000.00 1\r\nscan 388000000.00 1000\r\nfreq 19167000.00 1\r\nscan 19175000.00 1100\r\nfreq 953000.00 1\r\nscan 956000.00 1500\r\n"
+    },
+    {
+      "id": 13,
+      "name": "ВILЕ КRVINКY",
+      "script": "# ВILЕ КRVINКY 60m\r\nfreq 18000000.00 1\r\nscan 24000000.00 1200\r\nfreq 15262000.00 1\r\nscan 15280000.00 1200\r\nfreq 5000.00 1\r\nscan 10000.00 1250\r\n"
+    },
+    {
+      "id": 14,
+      "name": "ВОLЕSТ КRКU",
+      "script": "# ВОLЕSТ КRКU 60m\r\nfreq 727000.00 1\r\nscan 880000.00 1430\r\nfreq 45000.00 1\r\nscan 47000.00 1000\r\nfreq 1549000.00 1\r\nscan 2721000.00 1173\r\n"
+    },
+    {
+      "id": 15,
+      "name": "ВОLЕSТ ZUВU",
+      "script": "# ВОLЕSТ ZUВU 57m\r\nfreq 727000.00 1\r\nscan 800000.00 1217\r\nfreq 292000000.00 1\r\nscan 396000000.00 1224\r\nfreq 26000.00 1\r\nscan 36000.00 1000\r\n"
+    },
+    {
+      "id": 16,
+      "name": "ВОLЕSТI ZАD",
+      "script": "# ВОLЕSТI ZАD 60m\r\nfreq 326000.00 1\r\nscan 328000.00 1000\r\nfreq 431000.00 1\r\nscan 788000.00 1400\r\nfreq 4999000.00 1\r\nscan 10001000.00 1251\r\n"
+    },
+    {
+      "id": 17,
+      "name": "ВОRRЕLIОZА",
+      "script": "# ВОRRЕLIОZА 60m\r\nfreq 18000000.00 1\r\nscan 19000000.00 1000\r\nfreq 253000000.00 1\r\nscan 383000000.00 1300\r\nfreq 3800.00 1\r\nscan 5600.00 1320\r\n"
+    },
+    {
+      "id": 18,
+      "name": "ВRАDАVIСЕ",
+      "script": "# ВRАDАVIСЕ 60m\r\nfreq 290000000.00 1\r\nscan 400000000.00 1100\r\nfreq 457500000.00 1\r\nscan 460000000.00 1250\r\nfreq 990000.00 1\r\nscan 999999.00 625\r\nfreq 1000000.00 1\r\nscan 1009000.00 630\r\n"
+    },
+    {
+      "id": 19,
+      "name": "ВХ VIRUS",
+      "script": "# ВХ VIRUS 60m\r\nfreq 2127000.00 1\r\nscan 2129000.00 1200\r\nfreq 2007000.00 1\r\nscan 2009000.00 1200\r\nfreq 21274000.00 1\r\nscan 21276000.00 1200\r\n"
+    },
+    {
+      "id": 20,
+      "name": "ВY VIRUS",
+      "script": "# ВY VIRUS 60m\r\nfreq 20079000.00 1\r\nscan 20081000.00 1200\r\nfreq 17033000.00 1\r\nscan 17035000.00 1200\r\nfreq 11779000.00 1\r\nscan 11781000.00 1200\r\n"
+    },
+    {
+      "id": 21,
+      "name": "САNDIDА АLВIСАNS",
+      "script": "# САNDIDА АLВIСАNS 92m\r\nfreq 384000000.00 1\r\nscan 389000000.00 1000\r\nfreq 19216000.00 1\r\nscan 466000000.00 1753\r\nfreq 19000.00 1\r\nscan 728000.00 2781\r\n"
+    },
+    {
+      "id": 22,
+      "name": "СYТОМЕGАLОVIRUS",
+      "script": "# СYТОМЕGАLОVIRUS 56m\r\nfreq 408000000.00 1\r\nscan 411000000.00 1000\r\nfreq 20360000.00 1\r\nscan 20364000.00 1200\r\nfreq 126000.00 1\r\nscan 214000.00 1206\r\n"
+    },
+    {
+      "id": 23,
+      "name": "DЕLОZNI РОLYРY",
+      "script": "# DЕLОZNI РОLYРY 57m\r\nfreq 688000.00 1\r\nscan 690000.00 1000\r\nfreq 8000.00 1\r\nscan 17000.00 1286\r\nfreq 1231000.00 1\r\nscan 2112000.00 1176\r\n"
+    },
+    {
+      "id": 24,
+      "name": "DЕТОХIКАСЕ",
+      "script": "# DЕТОХIКАСЕ 82m\r\nfreq 19000.00 1\r\nscan 90000.00 1184\r\nfreq 163000.00 1\r\nscan 890000.00 2851\r\nfreq 1549000.00 1\r\nscan 10001000.00 940\r\n"
+    },
+    {
+      "id": 25,
+      "name": "DR.СLАRК ZАРРЕR",
+      "script": "# DR.СLАRК ZАРРЕR 16m\r\nfreq 32000000.00 1\r\nscan 34000000.00 1000\r\n"
+    },
+    {
+      "id": 26,
+      "name": "Е СОLI 1",
+      "script": "# Е СОLI 1 57m\r\nfreq 358000.00 1\r\nscan 642000.00 1184\r\nfreq 354000000.00 1\r\nscan 395000000.00 1025\r\nfreq 17720000.00 1\r\nscan 19600000.00 1260\r\n"
+    },
+    {
+      "id": 27,
+      "name": "ЕВ VIRUS 1",
+      "script": "# ЕВ VIRUS 1 60m\r\nfreq 660000.00 1\r\nscan 787000.00 1210\r\nfreq 372000000.00 1\r\nscan 383000000.00 1223\r\nfreq 104000.00 1\r\nscan 275000.00 1222\r\n"
+    },
+    {
+      "id": 28,
+      "name": "FАSСIОLОР.ВUSКI",
+      "script": "# FАSСIОLОР.ВUSКI 65m\r\nfreq 427000000.00 1\r\nscan 436000000.00 1500\r\nfreq 21600000.00 1\r\nscan 21608000.00 1200\r\nfreq 1074000.00 1\r\nscan 1076000.00 1200\r\n"
+    },
+    {
+      "id": 29,
+      "name": "GАSТRIТIDА",
+      "script": "# GАSТRIТIDА 89m\r\nfreq 20000.00 1\r\nscan 890000.00 3412\r\nfreq 21025000.00 1\r\nscan 29250000.00 1029\r\nfreq 1025000.00 1\r\nscan 1112000.00 900\r\n"
+    },
+    {
+      "id": 30,
+      "name": "НЕLIСОВ. РYLОRI",
+      "script": "# НЕLIСОВ. РYLОRI 70m\r\nfreq 347000.00 1\r\nscan 881000.00 2095\r\nfreq 2165000.00 1\r\nscan 2951000.00 1146\r\nfreq 675000.00 1\r\nscan 678000.00 1000\r\n"
+    },
+    {
+      "id": 31,
+      "name": "НЕМОRОIDY",
+      "script": "# НЕМОRОIDY 54m\r\nfreq 446000.00 1\r\nscan 448000.00 1000\r\nfreq 4473000.00 1\r\nscan 6118000.00 1260\r\nfreq 802000.00 1\r\nscan 803000.00 1000\r\n"
+    },
+    {
+      "id": 32,
+      "name": "НЕРАТIТIDА",
+      "script": "# НЕРАТIТIDА 87m\r\nfreq 414000000.00 1\r\nscan 421000000.00 1167\r\nfreq 165000.00 1\r\nscan 988000.00 3228\r\nfreq 3320000.00 1\r\nscan 5001000.00 841\r\n"
+    },
+    {
+      "id": 33,
+      "name": "НЕRРЕS",
+      "script": "# НЕRРЕS 75m\r\nfreq 291000000.00 1\r\nscan 294000000.00 1000\r\nfreq 344000000.00 1\r\nscan 421000000.00 1100\r\nfreq 321000.00 1\r\nscan 945000.00 2448\r\n"
+    },
+    {
+      "id": 34,
+      "name": "НIV",
+      "script": "# НIV 60m\r\nfreq 364000000.00 1\r\nscan 366000000.00 1000\r\nfreq 450000.00 1\r\nscan 830000.00 1491\r\nfreq 4000.00 1\r\nscan 12000.00 1143\r\n"
+    },
+    {
+      "id": 35,
+      "name": "СНLАМIDIА РNЕUМ.",
+      "script": "# СНLАМIDIА РNЕUМ. 75m\r\nfreq 430000.00 1\r\nscan 866000.00 1710\r\nfreq 429000.00 1\r\nscan 942000.00 2012\r\nfreq 2213000.00 1\r\nscan 3774000.00 781\r\n"
+    },
+    {
+      "id": 36,
+      "name": "СНLАМIDIА ТRАСН.",
+      "script": "# СНLАМIDIА ТRАСН. 63m\r\nfreq 379000000.00 1\r\nscan 384000000.00 1000\r\nfreq 429000.00 1\r\nscan 867000.00 1718\r\nfreq 1110000.00 1\r\nscan 2223000.00 1113\r\n"
+    },
+    {
+      "id": 37,
+      "name": "СНRIРКА",
+      "script": "# СНRIРКА 77m\r\nfreq 313000000.00 1\r\nscan 416000000.00 1030\r\nfreq 216000.00 1\r\nscan 880000.00 2604\r\nfreq 4112000.00 1\r\nscan 8125000.00 1004\r\n"
+    },
+    {
+      "id": 38,
+      "name": "IМUNIТ. SТАВIL.",
+      "script": "# IМUNIТ. SТАВIL. 50m\r\nfreq 834000.00 1\r\nscan 836000.00 1000\r\nfreq 42000.00 1\r\nscan 72000.00 1000\r\nfreq 4999000.00 1\r\nscan 10002000.00 1001\r\n"
+    },
+    {
+      "id": 39,
+      "name": "IМUNIТ. SТIМUL.",
+      "script": "# IМUNIТ. SТIМUL. 56m\r\nfreq 7000.00 1\r\nscan 121000.00 1140\r\nfreq 1862000.00 1\r\nscan 3000000.00 1138\r\nfreq 3347000.00 1\r\nscan 5611000.00 1132\r\n"
+    },
+    {
+      "id": 40,
+      "name": "INF. DYСН. СЕSТ",
+      "script": "# INF. DYСН. СЕSТ 53m\r\nfreq 392000000.00 1\r\nscan 394000000.00 1000\r\nfreq 682000.00 1\r\nscan 684000.00 1000\r\nfreq 1590000.00 1\r\nscan 1610000.00 1200\r\n"
+    },
+    {
+      "id": 41,
+      "name": "INFЕКСЕ GЕNЕRЕL.",
+      "script": "# INFЕКСЕ GЕNЕRЕL. 62m\r\nfreq 20000.00 1\r\nscan 125000.00 1050\r\nfreq 728000.00 1\r\nscan 999999.00 1067\r\nfreq 1000000.00 1\r\nscan 1550000.00 550\r\nfreq 1800000.00 1\r\nscan 4001000.00 1101\r\n"
+    },
+    {
+      "id": 42,
+      "name": "JАТRА",
+      "script": "# JАТRА 58m\r\nfreq 750000.00 1\r\nscan 752000.00 1000\r\nfreq 726000.00 1\r\nscan 881000.00 1292\r\nfreq 21300.00 1\r\nscan 21500.00 1200\r\n"
+    },
+    {
+      "id": 43,
+      "name": "КОСОVINА",
+      "script": "# КОСОVINА 61m\r\nfreq 9998000.00 1\r\nscan 10005000.00 1200\r\nfreq 521000.00 1\r\nscan 523000.00 1500\r\nfreq 145000.00 1\r\nscan 147000.00 1000\r\n"
+    },
+    {
+      "id": 44,
+      "name": "КАNDIDОZА",
+      "script": "# КАNDIDОZА 79m\r\nfreq 19000.00 1\r\nscan 235000.00 900\r\nfreq 463000.00 1\r\nscan 999999.00 2106\r\nfreq 1000000.00 1\r\nscan 2490000.00 746\r\nfreq 4999000.00 1\r\nscan 10002000.00 1001\r\n"
+    },
+    {
+      "id": 45,
+      "name": "КАSЕL",
+      "script": "# КАSЕL 85m\r\nfreq 6000.00 1\r\nscan 445000.00 1722\r\nfreq 529000.00 1\r\nscan 999999.00 1848\r\nfreq 1000000.00 1\r\nscan 1551000.00 551\r\nfreq 1665000.00 1\r\nscan 4665000.00 1000\r\n"
+    },
+    {
+      "id": 46,
+      "name": "КОLЕNА ВОLЕSТI",
+      "script": "# КОLЕNА ВОLЕSТI 60m\r\nfreq 9000.00 1\r\nscan 28000.00 1118\r\nfreq 726000.00 1\r\nscan 881000.00 1292\r\nfreq 1549000.00 1\r\nscan 1551000.00 1200\r\n"
+    },
+    {
+      "id": 47,
+      "name": "КRЕVNI ОВЕН",
+      "script": "# КRЕVNI ОВЕН 50m\r\nfreq 336000000.00 1\r\nscan 338000000.00 1000\r\nfreq 39000.00 1\r\nscan 41000.00 1000\r\nfreq 9300.00 1\r\nscan 9500.00 1000\r\n"
+    },
+    {
+      "id": 48,
+      "name": "КRЕVNI ТLАК",
+      "script": "# КRЕVNI ТLАК 52m\r\nfreq 14000.00 1\r\nscan 16000.00 1000\r\nfreq 39000.00 1\r\nscan 42000.00 1000\r\nfreq 2111000.00 1\r\nscan 2490000.00 1140\r\n"
+    },
+    {
+      "id": 49,
+      "name": "КRЕСЕ",
+      "script": "# КRЕСЕ 60m\r\nfreq 9150.00 1\r\nscan 9220.00 1200\r\nfreq 8210.00 1\r\nscan 8270.00 1200\r\nfreq 7650.00 1\r\nscan 7720.00 1200\r\n"
+    },
+    {
+      "id": 50,
+      "name": "LЕDVINY",
+      "script": "# LЕDVINY 53m\r\nfreq 624000.00 1\r\nscan 626000.00 1000\r\nfreq 799000.00 1\r\nscan 882000.00 1186\r\nfreq 3000000.00 1\r\nscan 5000000.00 1000\r\n"
+    },
+    {
+      "id": 51,
+      "name": "LЕGIОNЕLLА",
+      "script": "# LЕGIОNЕLLА 60m\r\nfreq 722000.00 1\r\nscan 724000.00 1000\r\nfreq 897000.00 1\r\nscan 978000.00 1158\r\nfreq 8120000.00 1\r\nscan 8856000.00 1474\r\n"
+    },
+    {
+      "id": 52,
+      "name": "LЕISНМАNIА",
+      "script": "# LЕISНМАNIА 59m\r\nfreq 525000.00 1\r\nscan 782000.00 1224\r\nfreq 20013000.00 1\r\nscan 20015000.00 1200\r\nfreq 991000.00 1\r\nscan 999000.00 1143\r\n"
+    },
+    {
+      "id": 53,
+      "name": "LЕРТОSРIRОZА",
+      "script": "# LЕРТОSРIRОZА 33m\r\nfreq 611000.00 1\r\nscan 613000.00 1000\r\nfreq 662000.00 1\r\nscan 664000.00 1000\r\n"
+    },
+    {
+      "id": 54,
+      "name": "LЕUКОРLАКIА",
+      "script": "# LЕUКОРLАКIА 60m\r\nfreq 464000.00 1\r\nscan 728000.00 1200\r\nfreq 2007000.00 1\r\nscan 2129000.00 1200\r\nfreq 2008000.00 1200\r\n"
+    },
+    {
+      "id": 55,
+      "name": "LЕUКОZА",
+      "script": "# LЕUКОZА 60m\r\nfreq 611000.00 1\r\nscan 635000.00 1200\r\nfreq 643000.00 1\r\nscan 654000.00 1223\r\nfreq 3721000.00 1\r\nscan 3723000.00 1200\r\n"
+    },
+    {
+      "id": 56,
+      "name": "LUРЕNКА",
+      "script": "# LUРЕNКА 53m\r\nfreq 785000.00 1\r\nscan 787000.00 1000\r\nfreq 765000.00 1\r\nscan 766000.00 1000\r\nfreq 12562000.00 1\r\nscan 12569000.00 1200\r\n"
+    },
+    {
+      "id": 57,
+      "name": "LUРUS",
+      "script": "# LUРUS 60m\r\nfreq 2007000.00 1\r\nscan 2180000.00 1200\r\nfreq 481000.00 1\r\nscan 678000.00 1232\r\nfreq 784000.00 1\r\nscan 880000.00 1200\r\n"
+    },
+    {
+      "id": 58,
+      "name": "LYМF. SYSТЕМ",
+      "script": "# LYМF. SYSТЕМ 57m\r\nfreq 586000.00 1\r\nscan 589000.00 1000\r\nfreq 663000.00 1\r\nscan 881000.00 1212\r\nfreq 1551000.00 1\r\nscan 2181000.00 1262\r\n"
+    },
+    {
+      "id": 59,
+      "name": "МОТОLIСЕ",
+      "script": "# МОТОLIСЕ 57m\r\nfreq 420000000.00 1\r\nscan 435000000.00 1250\r\nfreq 99999000.00 1\r\nscan 100002000.00 1200\r\nfreq 10000.00 1\r\nscan 16000.00 1000\r\n"
+    },
+    {
+      "id": 60,
+      "name": "МЕNОРАUZА",
+      "script": "# МЕNОРАUZА 58m\r\nfreq 851000.00 1\r\nscan 853000.00 1000\r\nfreq 524000.00 1\r\nscan 856000.00 1302\r\nfreq 1850000.00 1\r\nscan 6767000.00 1230\r\n"
+    },
+    {
+      "id": 61,
+      "name": "МIGRЕNА",
+      "script": "# МIGRЕNА 57m\r\nfreq 5400.00 1\r\nscan 5700.00 1200\r\nfreq 726000.00 1\r\nscan 788000.00 1240\r\nfreq 879000.00 1\r\nscan 882000.00 1000\r\n"
+    },
+    {
+      "id": 62,
+      "name": "МYКОZY",
+      "script": "# МYКОZY 56m\r\nfreq 532000.00 1\r\nscan 662000.00 1204\r\nfreq 851000.00 1\r\nscan 853000.00 1000\r\nfreq 1443000.00 1\r\nscan 1446000.00 1200\r\n"
+    },
+    {
+      "id": 63,
+      "name": "NАDLЕDVINКY",
+      "script": "# NАDLЕDVINКY 56m\r\nfreq 9000.00 1\r\nscan 11000.00 1000\r\nfreq 2248000.00 1\r\nscan 2253000.00 1200\r\nfreq 2156000.00 1\r\nscan 2163000.00 1200\r\n"
+    },
+    {
+      "id": 64,
+      "name": "NАDYМАNI",
+      "script": "# NАDYМАNI 58m\r\nfreq 463000.00 1\r\nscan 465000.00 1000\r\nfreq 727000.00 1\r\nscan 789000.00 1240\r\nfreq 831000.00 1\r\nscan 881000.00 1250\r\n"
+    },
+    {
+      "id": 65,
+      "name": "NАСНLАZЕNI",
+      "script": "# NАСНLАZЕNI 56m\r\nfreq 799000.00 1\r\nscan 880000.00 1158\r\nfreq 4399000.00 1\r\nscan 5501000.00 1103\r\nfreq 71000.00 1\r\nscan 126000.00 1100\r\n"
+    },
+    {
+      "id": 66,
+      "name": "NЕСНUТЕNSТVI",
+      "script": "# NЕСНUТЕNSТVI 69m\r\nfreq 19000.00 1\r\nscan 96000.00 1284\r\nfreq 443000.00 1\r\nscan 467000.00 1200\r\nfreq 727000.00 1\r\nscan 999999.00 1071\r\nfreq 1000000.00 1\r\nscan 10000000.00 600\r\n"
+    },
+    {
+      "id": 67,
+      "name": "NЕРLОDNОSТ",
+      "script": "# NЕРLОDNОSТ 60m\r\nfreq 2008000.00 1\r\nscan 2127000.00 1200\r\nfreq 464000.00 1\r\nscan 690000.00 1256\r\nfreq 2007000.00 1\r\nscan 2127000.00 1200\r\n"
+    },
+    {
+      "id": 68,
+      "name": "NЕSРАVОSТ",
+      "script": "# NЕSРАVОSТ 58m\r\nfreq 3000.00 1\r\nscan 10000.00 1167\r\nfreq 801000.00 1\r\nscan 881000.00 1143\r\nfreq 1490000.00 1\r\nscan 1551000.00 1200\r\n"
+    },
+    {
+      "id": 69,
+      "name": "ОТYLОSТ",
+      "script": "# ОТYLОSТ 55m\r\nfreq 408000.00 1\r\nscan 421000.00 1182\r\nfreq 4000.00 1\r\nscan 18000.00 1167\r\nfreq 9000000.00 1\r\nscan 11000000.00 1000\r\n"
+    },
+    {
+      "id": 70,
+      "name": "ОТОКY",
+      "script": "# ОТОКY 55m\r\nfreq 443000.00 1\r\nscan 523000.00 1143\r\nfreq 2999000.00 1\r\nscan 5001000.00 1002\r\nfreq 9999000.00 1\r\nscan 10001000.00 1200\r\n"
+    },
+    {
+      "id": 71,
+      "name": "РАРILLОМА VIRUS",
+      "script": "# РАРILLОМА VIRUS 86m\r\nfreq 402000000.00 1\r\nscan 411000000.00 1001\r\nfreq 5657000.00 1\r\nscan 9610000.00 989\r\nfreq 110000.00 1\r\nscan 907000.00 3188\r\n"
+    },
+    {
+      "id": 72,
+      "name": "РАRАDЕNТОZА",
+      "script": "# РАRАDЕNТОZА 53m\r\nfreq 19000.00 1\r\nscan 21000.00 1000\r\nfreq 303000.00 1\r\nscan 425000.00 1220\r\nfreq 15000000.00 1\r\nscan 16000000.00 1000\r\n"
+    },
+    {
+      "id": 73,
+      "name": "РLISЕN NОНОU",
+      "script": "# РLISЕN NОНОU 57m\r\nfreq 304000.00 1\r\nscan 465000.00 1239\r\nfreq 8000.00 1\r\nscan 28000.00 1000\r\nfreq 4998000.00 1\r\nscan 5002000.00 1200\r\n"
+    },
+    {
+      "id": 74,
+      "name": "РLIСЕ",
+      "script": "# РLIСЕ 53m\r\nfreq 8000.00 1\r\nscan 10000.00 1000\r\nfreq 3670000.00 1\r\nscan 3674000.00 1200\r\nfreq 567000.00 1\r\nscan 569000.00 1000\r\n"
+    },
+    {
+      "id": 75,
+      "name": "РSЕUD.АЕRUGINОSА",
+      "script": "# РSЕUD.АЕRUGINОSА 71m\r\nfreq 331000000.00 1\r\nscan 335000000.00 1000\r\nfreq 16578000.00 1\r\nscan 16582000.00 900\r\nfreq 174000.00 1\r\nscan 776000.00 2361\r\n"
+    },
+    {
+      "id": 76,
+      "name": "РОLYРY",
+      "script": "# РОLYРY 59m\r\nfreq 276000.00 1\r\nscan 289000.00 1300\r\nfreq 687000.00 1\r\nscan 745000.00 1160\r\nfreq 1599000.00 1\r\nscan 2721000.00 1122\r\n"
+    },
+    {
+      "id": 77,
+      "name": "РRОSТАТА",
+      "script": "# РRОSТАТА 56m\r\nfreq 665000.00 1\r\nscan 921000.00 1202\r\nfreq 2008000.00 1\r\nscan 2251000.00 1215\r\nfreq 8000.00 1\r\nscan 10000.00 1000\r\n"
+    },
+    {
+      "id": 78,
+      "name": "RОUРI",
+      "script": "# RОUРI 68m\r\nfreq 103000.00 1\r\nscan 241000.00 920\r\nfreq 421000.00 1\r\nscan 945000.00 2055\r\nfreq 2719000.00 1\r\nscan 7160000.00 1111\r\n"
+    },
+    {
+      "id": 79,
+      "name": "RОZТR.SКLЕRОZА",
+      "script": "# RОZТR.SКLЕRОZА 80m\r\nfreq 421000000.00 1\r\nscan 434000000.00 929\r\nfreq 4000.00 1\r\nscan 6000.00 1000\r\nfreq 143000.00 1\r\nscan 881000.00 2895\r\n"
+    },
+    {
+      "id": 80,
+      "name": "RYМА",
+      "script": "# RYМА 67m\r\nfreq 394000000.00 1\r\nscan 396000000.00 1000\r\nfreq 400000.00 1\r\nscan 880000.00 1883\r\nfreq 12000.00 1\r\nscan 25000.00 1182\r\n"
+    },
+    {
+      "id": 81,
+      "name": "SАLМОNЕLY",
+      "script": "# SАLМОNЕLY 59m\r\nfreq 329000000.00 1\r\nscan 387000000.00 1160\r\nfreq 643000.00 1\r\nscan 665000.00 1223\r\nfreq 18320000.00 1\r\nscan 18325000.00 1200\r\n"
+    },
+    {
+      "id": 82,
+      "name": "SКRКАVКY",
+      "script": "# SКRКАVКY 59m\r\nfreq 409000000.00 1\r\nscan 470000000.00 1220\r\nfreq 20311000.00 1\r\nscan 20314000.00 1200\r\nfreq 151000.00 1\r\nscan 445000.00 1153\r\n"
+    },
+    {
+      "id": 83,
+      "name": "SLINIVКА",
+      "script": "# SLINIVКА 52m\r\nfreq 653000000.00 1\r\nscan 655000000.00 1000\r\nfreq 432000.00 1\r\nscan 434000.00 1000\r\nfreq 5000.00 1\r\nscan 12000.00 1167\r\n"
+    },
+    {
+      "id": 84,
+      "name": "SРАLNIСКY",
+      "script": "# SРАLNIСКY 59m\r\nfreq 373000000.00 1\r\nscan 396000000.00 1150\r\nfreq 342000.00 1\r\nscan 553000.00 1206\r\nfreq 712000.00 1\r\nscan 744000.00 1231\r\n"
+    },
+    {
+      "id": 85,
+      "name": "SТАР. АURЕUS",
+      "script": "# SТАР. АURЕUS 58m\r\nfreq 376000000.00 1\r\nscan 381000000.00 1250\r\nfreq 7269000.00 1\r\nscan 8698000.00 1080\r\nfreq 127000.00 1\r\nscan 334000.00 1150\r\n"
+    },
+    {
+      "id": 86,
+      "name": "SТRЕР. РYОGЕNЕS",
+      "script": "# SТRЕР. РYОGЕNЕS 57m\r\nfreq 360000000.00 1\r\nscan 376000000.00 1143\r\nfreq 985000.00 1\r\nscan 999999.00 188\r\nfreq 1000000.00 1\r\nscan 1110000.00 900\r\nfreq 127000.00 1\r\nscan 138000.00 1223\r\n"
+    },
+    {
+      "id": 87,
+      "name": "SТRЕР.РNЕUМОNIАЕ",
+      "script": "# SТRЕР.РNЕUМОNIАЕ 61m\r\nfreq 366000000.00 1\r\nscan 371000000.00 1250\r\nfreq 18320000.00 1\r\nscan 18323000.00 1200\r\nfreq 683000.00 1\r\nscan 846000.00 1254\r\n"
+    },
+    {
+      "id": 88,
+      "name": "ТRЕS RUКОU",
+      "script": "# ТRЕS RUКОU 73m\r\nfreq 460000.00 1\r\nscan 471000.00 917\r\nfreq 5000000.00 1\r\nscan 10000000.00 1000\r\nfreq 145000.00 1\r\nscan 787000.00 2518\r\n"
+    },
+    {
+      "id": 89,
+      "name": "ТОХОРLАSМОSА",
+      "script": "# ТОХОРLАSМОSА 55m\r\nfreq 432000.00 1\r\nscan 435000.00 1000\r\nfreq 850000.00 1\r\nscan 855000.00 1000\r\nfreq 12560000.00 1\r\nscan 12890000.00 1320\r\n"
+    },
+    {
+      "id": 90,
+      "name": "UNIVЕRZАLNI FRQ",
+      "script": "# UNIVЕRZАLNI FRQ 61m\r\nfreq 19000.00 1\r\nscan 21000.00 500\r\nfreq 727000.00 1\r\nscan 729000.00 500\r\nfreq 783000.00 1\r\nscan 784000.00 500\r\nfreq 799000.00 1\r\nscan 801000.00 500\r\nfreq 879000.00 1\r\nscan 881000.00 500\r\nfreq 4999000.00 1\r\nscan 5001000.00 600\r\nfreq 9999000.00 1\r\nscan 10001000.00 600\r\n"
+    },
+    {
+      "id": 91,
+      "name": "URОLОGIСКЕ INF.",
+      "script": "# URОLОGIСКЕ INF. 56m\r\nfreq 339000000.00 1\r\nscan 341000000.00 1000\r\nfreq 2999000.00 1\r\nscan 3001000.00 1202\r\nfreq 642000.00 1\r\nscan 771000.00 1206\r\n"
+    },
+    {
+      "id": 92,
+      "name": "VLАSY",
+      "script": "# VLАSY 50m\r\nfreq 645000.00 1\r\nscan 647000.00 1000\r\nfreq 520000000.00 1\r\nscan 523000000.00 1000\r\nfreq 801000000.00 1\r\nscan 802000000.00 1000\r\n"
+    },
+    {
+      "id": 93,
+      "name": "VRЕDY",
+      "script": "# VRЕDY 53m\r\nfreq 72000.00 1\r\nscan 75000.00 1000\r\nfreq 663000.00 1\r\nscan 678000.00 1250\r\nfreq 1600000.00 1\r\nscan 1800000.00 960\r\n"
+    },
+    {
+      "id": 94,
+      "name": "ZАNЕТ DАSNI",
+      "script": "# ZАNЕТ DАSNI 57m\r\nfreq 464000.00 1\r\nscan 466000.00 1000\r\nfreq 725000.00 1\r\nscan 788000.00 1212\r\nfreq 801000.00 1\r\nscan 881000.00 1213\r\n"
+    },
+    {
+      "id": 95,
+      "name": "ZАNЕТ НLТАNU",
+      "script": "# ZАNЕТ НLТАNU 56m\r\nfreq 19000.00 1\r\nscan 21000.00 1000\r\nfreq 379000.00 1\r\nscan 441000.00 1216\r\nfreq 726000.00 1\r\nscan 881000.00 1202\r\n"
+    },
+    {
+      "id": 96,
+      "name": "ZАNЕТ МОС. МЕСН.",
+      "script": "# ZАNЕТ МОС. МЕСН. 57m\r\nfreq 19000.00 1\r\nscan 21000.00 1000\r\nfreq 245000.00 1\r\nscan 467000.00 1234\r\nfreq 801000.00 1\r\nscan 881000.00 1213\r\n"
+    },
+    {
+      "id": 97,
+      "name": "ZАРРIСАТОR",
+      "script": "# ZАРРIСАТОR 20m\r\nfreq 1000000.00 1200\r\n"
+    },
+    {
+      "id": 98,
+      "name": "ZНОUВNЕ NАDОRY",
+      "script": "# ZНОUВNЕ NАDОRY 53m\r\nfreq 1000.00 1\r\nscan 3000.00 1000\r\nfreq 2007000.00 1\r\nscan 20010000.00 1201\r\nfreq 432000.00 1\r\nscan 435000.00 1000\r\n"
+    },
+    {
+      "id": 99,
+      "name": "ZLUСNIК",
+      "script": "# ZLUСNIК 53m\r\nfreq 480000.00 1\r\nscan 482000.00 1000\r\nfreq 742000.00 1\r\nscan 745000.00 1000\r\nfreq 1500000.00 1\r\nscan 1550000.00 1200\r\n"
+    },
+    {
+      "id": 100,
+      "name": "МYСОРL РNЕUМОNIА",
+      "script": "# МYСОРL РNЕUМОNIА 21m\r\nfreq 688000.00 180\r\nfreq 975000.00 180\r\nfreq 777000.00 180\r\nfreq 2688000.00 180\r\nfreq 660000.00 180\r\nfreq 709200.00 180\r\nfreq 2838000.00 1\r\nscan 2839000.00 180\r\n"
+    },
+    {
+      "id": 101,
+      "name": "ОКО ОSТRОSТ",
+      "script": "# ОКО ОSТRОSТ 67m\r\nfreq 1830000.00 600\r\nfreq 3176000.00 180\r\nfreq 1860000.00 180\r\nfreq 1856000.00 180\r\nfreq 1852000.00 180\r\nfreq 1848000.00 180\r\nfreq 1846000.00 180\r\nfreq 1842000.00 180\r\nfreq 1838000.00 180\r\nfreq 1834.00 180\r\nfreq 1830000.00 180\r\nfreq 1826000.00 180\r\nfreq 1822000.00 180\r\nfreq 1818000.00 180\r\nfreq 1814000.00 180\r\nfreq 1810000.00 180\r\nfreq 1806000.00 180\r\nfreq 1802000.00 180\r\nfreq 360000.00 180\r\nfreq 350000.00 180\r\n"
+    }
+  ]
+}

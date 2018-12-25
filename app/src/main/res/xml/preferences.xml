@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:persistent="true">
+    <PreferenceCategory android:title="Application">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="key_auto_connect"
+            android:title="Connect automatically" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="key_show_command_bar"
+            android:title="Show command bar" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="key_show_log_window"
+            android:title="Show log window" />
+        <MultiSelectListPreference
+            android:defaultValue="@array/pref_device_type_values"
+            android:dialogTitle="Filter devices"
+            android:entries="@array/pref_device_type"
+            android:entryValues="@array/pref_device_type_values"
+            android:key="key_filter_bluetooth_devices"
+            android:summary=""
+            android:title="Filter bluetooth adapters" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Therapies">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="key_enable_basic_therapies"
+            android:title="Online therapies" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="key_enable_extended_therapies"
+            android:title="Plasma RIFE therapies" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="key_enable_pitchfork_therapies"
+            android:title="Pitchfork therapies" />
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/pref_list_type"
+            android:entryValues="@array/pref_list_type_values"
+            android:icon="@drawable/ic_menu"
+            android:key="key_list_type"
+            android:title="Program list type" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Filering">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_device_filter"
+            android:title="Filter devices" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:dependency="key_device_filter"
+            android:key="key_dev_freepemf"
+            android:title="freePEMF" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:dependency="key_device_filter"
+            android:key="key_dev_multizap"
+            android:title="multiZAP++" />
+    </PreferenceCategory>
+</PreferenceScreen>

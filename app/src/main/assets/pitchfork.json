@@ -1,0 +1,684 @@
+{
+  "terapie": [
+    {
+      "id": 0,
+      "name": "Czakry / Czakra Korzenia",
+      "description": "Czakra Korzenia",
+      "script": "# Czakry / Czakra Korzenia 10m\r\nfreq 194.18 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Czakry / Czakra Sakralna",
+      "description": "Czakra Sakralna",
+      "script": "# Czakry / Czakra Sakralna 10m\r\nfreq 210.42 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Czakry / Czakra Splotu Słonecznego",
+      "description": "Czakra Splotu Słonecznego",
+      "script": "# Czakry / Czakra Splotu Słonecznego 10m\r\nfreq 126.22 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Czakry / Czakra Serca",
+      "description": "Czakra Serca",
+      "script": "# Czakry / Czakra Serca 10m\r\nfreq 136.10 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Czakry / Czakra Gardła",
+      "description": "Czakra Gardła",
+      "script": "# Czakry / Czakra Gardła 10m\r\nfreq 141.27 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Czakry / Czakra Trzeciego Oka",
+      "description": "Czakra Trzeciego Oka",
+      "script": "# Czakry / Czakra Trzeciego Oka 10m\r\nfreq 221.23 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Czakry / Czakra Korony",
+      "description": "Czakra Korony",
+      "script": "# Czakry / Czakra Korony 10m\r\nfreq 172.06 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "DNA / Uzdrowienie DNA",
+      "description": "Uzdrowienie DNA",
+      "script": "# DNA / Uzdrowienie DNA 10m\r\nfreq 528.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "DNA / Adenina",
+      "description": "Adenina",
+      "script": "# DNA / Adenina 10m\r\nfreq 545.60 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "DNA / Cytozyna",
+      "description": "Cytozyna",
+      "script": "# DNA / Cytozyna 10m\r\nfreq 537.80 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "DNA / Guanina",
+      "description": "Guanina",
+      "script": "# DNA / Guanina 10m\r\nfreq 550.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DNA / Tymina",
+      "description": "Tymina",
+      "script": "# DNA / Tymina 10m\r\nfreq 543.40 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Organy / Krew",
+      "description": "Krew",
+      "script": "# Organy / Krew 10m\r\nfreq 321.90 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Organy / Nadnercza",
+      "description": "Nadnercza",
+      "script": "# Organy / Nadnercza 10m\r\nfreq 492.80 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Organy / Nerki",
+      "description": "Nerki",
+      "script": "# Organy / Nerki 10m\r\nfreq 319.88 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Organy / Wątroba",
+      "description": "Wątroba",
+      "script": "# Organy / Wątroba 10m\r\nfreq 317.83 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Organy / Pęcherz",
+      "description": "Pęcherz",
+      "script": "# Organy / Pęcherz 10m\r\nfreq 352.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Organy / Jelita",
+      "description": "Jelita",
+      "script": "# Organy / Jelita 10m\r\nfreq 281.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Organy / Płuca",
+      "description": "Płuca",
+      "script": "# Organy / Płuca 10m\r\nfreq 220.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Organy / Okrężnica",
+      "description": "Okrężnica",
+      "script": "# Organy / Okrężnica 10m\r\nfreq 176.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Organy / Woreczek żółciowy",
+      "description": "Woreczek żółciowy",
+      "script": "# Organy / Woreczek żółciowy 10m\r\nfreq 164.30 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Organy / Trzustka",
+      "description": "Trzustka",
+      "script": "# Organy / Trzustka 10m\r\nfreq 117.30 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Organy / Zołądek",
+      "description": "Zołądek",
+      "script": "# Organy / Zołądek 10m\r\nfreq 110.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Organy / Mózg",
+      "description": "Mózg",
+      "script": "# Organy / Mózg 10m\r\nfreq 315.80 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Organy / Komórki tłuszczowe",
+      "description": "Komórki tłuszczowe",
+      "script": "# Organy / Komórki tłuszczowe 10m\r\nfreq 295.80 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Organy / Mięśnie",
+      "description": "Mięśnie",
+      "script": "# Organy / Mięśnie 10m\r\nfreq 324.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Organy / Kości",
+      "description": "Kości",
+      "script": "# Organy / Kości 10m\r\nfreq 418.30 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Organy / Tarczyca",
+      "description": "Tarczyca",
+      "script": "# Organy / Tarczyca 10m\r\nfreq 492.80 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Organy / Nadnercza",
+      "description": "Nadnercza",
+      "script": "# Organy / Nadnercza 10m\r\nfreq 492.80 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Organy / Komórki tłuszczowe",
+      "description": "Komórki tłuszczowe",
+      "script": "# Organy / Komórki tłuszczowe 10m\r\nfreq 295.80 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Organy / Mięśnie",
+      "description": "Mięśnie",
+      "script": "# Organy / Mięśnie 10m\r\nfreq 324.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Pierwiastki / Złoto",
+      "description": "Złoto",
+      "script": "# Pierwiastki / Złoto 10m\r\nfreq 316.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Pierwiastki / Srebro",
+      "description": "Srebro",
+      "script": "# Pierwiastki / Srebro 10m\r\nfreq 376.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Pierwiastki / Krzem",
+      "description": "Krzem",
+      "script": "# Pierwiastki / Krzem 10m\r\nfreq 448.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Pierwiastki / Platyna",
+      "description": "Platyna",
+      "script": "# Pierwiastki / Platyna 10m\r\nfreq 312.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Pierwiastki / Jod",
+      "description": "Jod",
+      "script": "# Pierwiastki / Jod 10m\r\nfreq 424.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Pierwiastki / Selen",
+      "description": "Selen",
+      "script": "# Pierwiastki / Selen 10m\r\nfreq 272.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Pierwiastki / Molibden",
+      "description": "Molibden",
+      "script": "# Pierwiastki / Molibden 10m\r\nfreq 336.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Pierwiastki / Potas",
+      "description": "Potas",
+      "script": "# Pierwiastki / Potas 10m\r\nfreq 304.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Pierwiastki / Wapń",
+      "description": "Wapń",
+      "script": "# Pierwiastki / Wapń 10m\r\nfreq 320.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Pierwiastki / Chrom",
+      "description": "Chrom",
+      "script": "# Pierwiastki / Chrom 10m\r\nfreq 384.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Pierwiastki / Mangan",
+      "description": "Mangan",
+      "script": "# Pierwiastki / Mangan 10m\r\nfreq 400.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Pierwiastki / Żelazo",
+      "description": "Żelazo",
+      "script": "# Pierwiastki / Żelazo 10m\r\nfreq 416.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pierwiastki / Miedź",
+      "description": "Miedź",
+      "script": "# Pierwiastki / Miedź 10m\r\nfreq 464.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Pierwiastki / Fosfor i Cynk",
+      "description": "Fosfor i Cynk",
+      "script": "# Pierwiastki / Fosfor i Cynk 10m\r\nfreq 480.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Pierwiastki / Sód",
+      "description": "Sód",
+      "script": "# Pierwiastki / Sód 10m\r\nfreq 352.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Pierwiastki / Siarka",
+      "description": "Siarka",
+      "script": "# Pierwiastki / Siarka 10m\r\nfreq 256.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Pierwiastki / Magnez",
+      "description": "Magnez",
+      "script": "# Pierwiastki / Magnez 10m\r\nfreq 341.00 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Planety / Miesiąc Synodyczny",
+      "description": "Miesiąc Synodyczny",
+      "script": "# Planety / Miesiąc Synodyczny 10m\r\nfreq 210.42 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Planety / Słońce",
+      "description": "Słońce",
+      "script": "# Planety / Słońce 10m\r\nfreq 126.22 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Planety / Rok Ziemski",
+      "description": "Rok Ziemski",
+      "script": "# Planety / Rok Ziemski 10m\r\nfreq 136.10 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Planety / Merkury",
+      "description": "Merkury",
+      "script": "# Planety / Merkury 10m\r\nfreq 141.27 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Planety / Wenus",
+      "description": "Wenus",
+      "script": "# Planety / Wenus 10m\r\nfreq 221.23 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Planety / Rok Platoniczny",
+      "description": "Rok Platoniczny",
+      "script": "# Planety / Rok Platoniczny 10m\r\nfreq 172.06 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Planety / Chiron ",
+      "description": "Chiron ",
+      "script": "# Planety / Chiron  10m\r\nfreq 172.86 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Planety / Ziemia ",
+      "description": "Ziemia ",
+      "script": "# Planety / Ziemia  10m\r\nfreq 136.10 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Planety / Rok Platoniczny ",
+      "description": "Rok Platoniczny ",
+      "script": "# Planety / Rok Platoniczny  10m\r\nfreq 172.06 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Planety / Dzień Synodyczny ",
+      "description": "Dzień Synodyczny ",
+      "script": "# Planety / Dzień Synodyczny  10m\r\nfreq 194.18 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Planety / Jowisz ",
+      "description": "Jowisz ",
+      "script": "# Planety / Jowisz  10m\r\nfreq 183.58 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Planety / Księżyc Synodyczny ",
+      "description": "Księżyc Synodyczny ",
+      "script": "# Planety / Księżyc Synodyczny  10m\r\nfreq 210.42 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Planety / Mars ",
+      "description": "Mars ",
+      "script": "# Planety / Mars  10m\r\nfreq 144.72 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Planety / Merkury ",
+      "description": "Merkury ",
+      "script": "# Planety / Merkury  10m\r\nfreq 141.27 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Planety / Neptun ",
+      "description": "Neptun ",
+      "script": "# Planety / Neptun  10m\r\nfreq 211.44 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Planety / Słońce ",
+      "description": "Słońce ",
+      "script": "# Planety / Słońce  10m\r\nfreq 126.22 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Planety / Saturn ",
+      "description": "Saturn ",
+      "script": "# Planety / Saturn  10m\r\nfreq 147.85 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Planety / Sedna ",
+      "description": "Sedna ",
+      "script": "# Planety / Sedna  10m\r\nfreq 181.60 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Planety / Uran ",
+      "description": "Uran ",
+      "script": "# Planety / Uran  10m\r\nfreq 207.36 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Planety / Wenus ",
+      "description": "Wenus ",
+      "script": "# Planety / Wenus  10m\r\nfreq 221.23 600\r\n",
+      "devices": [
+        "multiZAP++",
+        "free-PEMF"
+      ]
+    }
+  ]
+}

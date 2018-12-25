@@ -1,0 +1,2308 @@
+[
+  {
+    "nid": [
+      {
+        "value": 145
+      }
+    ],
+    "uuid": [
+      {
+        "value": "23871c2b-470b-4fe9-bc06-fc4de4f47ffe"
+      }
+    ],
+    "vid": [
+      {
+        "value": 962
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2018-04-25T05:12:14+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "\u015awie\u017cb, nu\u017cyca, demodekoza"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2018-04-25T05:12:14+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-04-26T04:03:19+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "body": [
+      {
+        "value": "\u003Cp class=\u0022text-align-justify\u0022\u003ENajlepiej u\u017cywa\u0107 multiZAP z elektrodami. Niemniej roztocza \u015bwierzbu zagnie\u017cd\u017caj\u0105 si\u0119 w okolicach mieszk\u00f3w w\u0142osowych, st\u0105d tylko mo\u017cna obj\u0105\u0107 te miejsca polem EM. Nale\u017cy u\u017cywa\u0107 cewki pomara\u0144czowej. W przypadku korzystania z freePEMF konieczna jest wersja oprogramowania 2018-04-07 lub nowsza. freePEMF i multiZAP z cewkami\u0026nbsp;nie obs\u0142uguj\u0105\u0026nbsp;cz\u0119stotliwo\u015bci 735kHz (Hulda\u0026nbsp;Clark)\u0026nbsp; - ostatni element terapii. Dzia\u0142a na multiZAP\u0026nbsp;tylko z cewk\u0105\u0026nbsp;\u017c\u00f3\u0142t\u0105\u0026nbsp;lub elektrody. \u0179r\u00f3d\u0142o: \u003Ca href=\u0022http:\/\/ensopublishing.com\/pl\/ksiazki\/119-katalog-czestotliwosci-pasozytow-podrecznik-rife-clark\u0022 target=\u0022_blank\u0022\u003EPodr\u0119cznik RIFE\u0027a\u003C\/a\u003E [2018-04]\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp class=\u0022text-align-justify\u0022\u003ENajlepiej u\u017cywa\u0107 multiZAP z elektrodami. Niemniej roztocza \u015bwierzbu zagnie\u017cd\u017caj\u0105 si\u0119 w okolicach mieszk\u00f3w w\u0142osowych, st\u0105d tylko mo\u017cna obj\u0105\u0107 te miejsca polem EM. Nale\u017cy u\u017cywa\u0107 cewki pomara\u0144czowej. W przypadku korzystania z freePEMF konieczna jest wersja oprogramowania 2018-04-07 lub nowsza. freePEMF i multiZAP z cewkami\u00a0nie obs\u0142uguj\u0105\u00a0cz\u0119stotliwo\u015bci 735kHz (Hulda\u00a0Clark)\u00a0 - ostatni element terapii. Dzia\u0142a na multiZAP\u00a0tylko z cewk\u0105\u00a0\u017c\u00f3\u0142t\u0105\u00a0lub elektrody. \u0179r\u00f3d\u0142o: \u003Ca href=\u0022http:\/\/ensopublishing.com\/pl\/ksiazki\/119-katalog-czestotliwosci-pasozytow-podrecznik-rife-clark\u0022 target=\u0022_blank\u0022\u003EPodr\u0119cznik RIFE\u0027a\u003C\/a\u003E [2018-04]\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 14
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "#Swirzeb, nuzyca\r\n# 36 min\r\nwait 3000\r\nbeep 200\r\nfreq 9000 1\r\nscan 11000 180\r\nfreq 25300 120\r\nfreq 69300 600\r\nfreq 70100 120\r\nfreq 77400 120\r\nfreq 92000 120\r\nfreq 143600 120\r\nfreq 287100 120\r\nfreq 574200 120\r\nfreq 182188 180\r\n#tylko multi\r\n#freq 73500000 180\r\nbeep 200\r\noff\r\n@\r\n"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      },
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 138
+      }
+    ],
+    "uuid": [
+      {
+        "value": "c27f72d6-7dfc-4375-a4eb-07217e229321"
+      }
+    ],
+    "vid": [
+      {
+        "value": 949
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2018-03-27T17:46:21+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 147,
+        "target_type": "user",
+        "target_uuid": "3e5e2cd8-09b2-436e-b748-073a91f8e4d8",
+        "url": "\/user\/147"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Wirus Epsteina- Barra (EBV), przywra trzustki (Eurytrema)"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 147,
+        "target_type": "user",
+        "target_uuid": "3e5e2cd8-09b2-436e-b748-073a91f8e4d8",
+        "url": "\/user\/147"
+      }
+    ],
+    "created": [
+      {
+        "value": "2018-03-27T17:46:21+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-03-27T17:46:21+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "body": [
+      {
+        "value": "\u003Cp\u003EZnalaz\u0142am informacj\u0119 w ksi\u0105\u017cce dr Huldy Clark odno\u015bnie leczenia wirusa EBV poprzez wyelminowanie przywry trzustkowej:\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u0022Wirus Epsteina- Barra (EBV) to tajemnicza choroba, poniewa\u017c stale atakuje mimo wytwarzania przeciwcia\u0142. Z moich obserwacji wynika, \u017ce EBV pochodzi z przywry trzustkowej (Eurytrema); gdy pacjent nie ma paso\u017cyta, znika te\u017c wirus. Po zniszczeniu przywr system immunologiczny potrafi opanowa\u0107 EBV w ci\u0105gu jednego dnia, lecz reinfekcja nosz\u0105c\u0105 EBV Eurytrem\u0105 (wraz ze ska\u017ceniem metanolem, kt\u00f3ry wpuszcza przywr\u0119 do trzustki) powoduje nawr\u00f3t choroby.\u0022\u003C\/p\u003E\r\n\r\n\u003Cp\u003ENie znalaz\u0142am \u017cadnych bada\u0144 odno\u015bnie powi\u0105zania EBV z Eurytrem\u0105 ale cz\u0119sto s\u0142ysza\u0142am o tym, \u017ce wirusowi temu towarzysz\u0105 paso\u017cyty, wi\u0119c by\u0107 mo\u017ce trop jest dobry. P\u00f3ki co testuj\u0119 co z tego b\u0119dzie.\u003C\/p\u003E\r\n\r\n\u003Cp\u003ESkrypt na podstawie podr\u0119cznika Rife\u0027a.\u003C\/p\u003E\r\n\r\n\u003Cp\u003ENajlepiej u\u017cywa\u0107 z mat\u0105 i elektrodami jednocze\u015bnie.\u003C\/p\u003E\r\n",
+        "format": "basic_html",
+        "processed": "\u003Cp\u003EZnalaz\u0142am informacj\u0119 w ksi\u0105\u017cce dr Huldy Clark odno\u015bnie leczenia wirusa EBV poprzez wyelminowanie przywry trzustkowej:\u003C\/p\u003E\n\n\u003Cp\u003E\u0022Wirus Epsteina- Barra (EBV) to tajemnicza choroba, poniewa\u017c stale atakuje mimo wytwarzania przeciwcia\u0142. Z moich obserwacji wynika, \u017ce EBV pochodzi z przywry trzustkowej (Eurytrema); gdy pacjent nie ma paso\u017cyta, znika te\u017c wirus. Po zniszczeniu przywr system immunologiczny potrafi opanowa\u0107 EBV w ci\u0105gu jednego dnia, lecz reinfekcja nosz\u0105c\u0105 EBV Eurytrem\u0105 (wraz ze ska\u017ceniem metanolem, kt\u00f3ry wpuszcza przywr\u0119 do trzustki) powoduje nawr\u00f3t choroby.\u0022\u003C\/p\u003E\n\n\u003Cp\u003ENie znalaz\u0142am \u017cadnych bada\u0144 odno\u015bnie powi\u0105zania EBV z Eurytrem\u0105 ale cz\u0119sto s\u0142ysza\u0142am o tym, \u017ce wirusowi temu towarzysz\u0105 paso\u017cyty, wi\u0119c by\u0107 mo\u017ce trop jest dobry. P\u00f3ki co testuj\u0119 co z tego b\u0119dzie.\u003C\/p\u003E\n\n\u003Cp\u003ESkrypt na podstawie podr\u0119cznika Rife\u0027a.\u003C\/p\u003E\n\n\u003Cp\u003ENajlepiej u\u017cywa\u0107 z mat\u0105 i elektrodami jednocze\u015bnie.\u003C\/p\u003E",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 14
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "# motylica trzustki\r\nwait 5000\r\nbeep 200\r\nfreq 104194 180\r\nfreq 104355 180\r\nfreq 104678 180\r\nfreq 2096036 180\r\nfreq 42035000 180\r\nfreq 42100000 180\r\nfreq 42230000 180\r\nbeep 200\r\noff\r\n@\r\n"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 133
+      }
+    ],
+    "uuid": [
+      {
+        "value": "b2041cd0-c70f-4120-b494-d71afa0cbcaa"
+      }
+    ],
+    "vid": [
+      {
+        "value": 940
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2018-03-11T20:11:11+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 171,
+        "target_type": "user",
+        "target_uuid": "817d2be5-491a-4b1d-b45b-07771656b4c6",
+        "url": "\/user\/171"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Nadnercza 2 - Rownowaga i Normalizacja"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 171,
+        "target_type": "user",
+        "target_uuid": "817d2be5-491a-4b1d-b45b-07771656b4c6",
+        "url": "\/user\/171"
+      }
+    ],
+    "created": [
+      {
+        "value": "2018-03-11T20:11:11+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-04-15T08:08:14+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "body": [
+      {
+        "value": "\u003Cp\u003ENadnercza 2 - Rownowaga i Normalizacja\u003C\/p\u003E\r\n",
+        "format": "basic_html",
+        "processed": "\u003Cp\u003ENadnercza 2 - Rownowaga i Normalizacja\u003C\/p\u003E",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 14
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "# Nadnercza 2-rownowaga i normalizacja\r\nwait 3000\r\npbar 100 900\r\nbeep 300\r\nbeep 300\r\nfreq 2000 180\r\nfreq 53700 180\r\nfreq 133500 180\r\nfreq 225000 180\r\nfreq 1000000 180\r\nbeep 200\r\noff\r\n@"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 132
+      }
+    ],
+    "uuid": [
+      {
+        "value": "9acbde34-b3d0-48c1-a128-918d26282bb7"
+      }
+    ],
+    "vid": [
+      {
+        "value": 939
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2018-03-10T20:38:14+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 171,
+        "target_type": "user",
+        "target_uuid": "817d2be5-491a-4b1d-b45b-07771656b4c6",
+        "url": "\/user\/171"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Nadnercza - R\u00f3wnowaga i Normalizacja"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 171,
+        "target_type": "user",
+        "target_uuid": "817d2be5-491a-4b1d-b45b-07771656b4c6",
+        "url": "\/user\/171"
+      }
+    ],
+    "created": [
+      {
+        "value": "2018-03-10T20:38:14+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-03-10T20:38:14+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "body": [
+      {
+        "value": "\u003Cp\u003EW ksi\u0105\u017cce RIFE\u0027a nie ma opisu do tej terapii. Wi\u0119c pr\u00f3bujmy\u003C\/p\u003E\r\n",
+        "format": "basic_html",
+        "processed": "\u003Cp\u003EW ksi\u0105\u017cce RIFE\u0027a nie ma opisu do tej terapii. Wi\u0119c pr\u00f3bujmy\u003C\/p\u003E",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 14
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "# Nadnercza-r\u00f3wnowaga i normalizacja\r\nwait 3000\r\npbar 100 900\r\nfreq 2000 180\r\nfreq 53700 180\r\nfreq 133500 180\r\nfreq 225000 180\r\nfreq 1000000 180\r\nbeep 200\r\noff\r\n@"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 130
+      }
+    ],
+    "uuid": [
+      {
+        "value": "2915e15e-f499-4b5e-8bbd-1e8c298687f7"
+      }
+    ],
+    "vid": [
+      {
+        "value": 919
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2018-02-25T12:15:29+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Ple\u015bniawka - warsztat"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2018-02-25T12:15:29+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-02-27T15:43:43+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "body": [
+      {
+        "value": "\u003Cp\u003EPle\u015bniawka szkoleniowo\u003C\/p\u003E\r\n\r\n\u003Cp\u003EPodr\u0119cznik RIFE\u0027a\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp\u003EPle\u015bniawka szkoleniowo\u003C\/p\u003E\n\n\u003Cp\u003EPodr\u0119cznik RIFE\u0027a\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 14
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "# Plesniawka\r\nwait 3000\r\nbeep 200\r\nfreq 41400 180\r\nfreq 46400 180\r\nfreq 72750 180\r\n#nastepne polecenia\r\nbeep 200\r\noff"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 120
+      }
+    ],
+    "uuid": [
+      {
+        "value": "1767b5d7-7762-489e-b1d4-7cca5c6cdbf8"
+      }
+    ],
+    "vid": [
+      {
+        "value": 907
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2018-02-06T17:09:13+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Aktywacja szyszynki"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2018-02-06T17:09:13+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-05-16T13:35:12+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "body": [
+      {
+        "value": "\u003Cp\u003EUtworzona na podstawie\u0026nbsp;ksi\u0105\u017cki \u003Ca href=\u0022http:\/\/ensopublishing.com\/pl\/ksiazki\/119-katalog-czestotliwosci-pasozytow-podrecznik-rife-clark\u0022 target=\u0022_blank\u0022\u003EPodr\u0119cznik RIFE\u0027a\u003C\/a\u003E [2018-04]. Dzia\u0142a z nowy oprogramowaniem do freePEMFa jako terapia fabryczna nr 4.\u003Cbr \/\u003E\r\nU\u017cywa\u0107 z mat\u0105 lub cewk\u0105 pomara\u0144czow\u0105 z t\u0142umikiem\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp\u003EUtworzona na podstawie\u00a0ksi\u0105\u017cki \u003Ca href=\u0022http:\/\/ensopublishing.com\/pl\/ksiazki\/119-katalog-czestotliwosci-pasozytow-podrecznik-rife-clark\u0022 target=\u0022_blank\u0022\u003EPodr\u0119cznik RIFE\u0027a\u003C\/a\u003E [2018-04]. Dzia\u0142a z nowy oprogramowaniem do freePEMFa jako terapia fabryczna nr 4.\u003Cbr \/\u003E\nU\u017cywa\u0107 z mat\u0105 lub cewk\u0105 pomara\u0144czow\u0105 z t\u0142umikiem\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 14
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "#Pineal gland 14min\r\nbeep 200\r\nfreq 783 120\r\nchp 1\r\nfreq 2000 180\r\nchp 0\r\nfreq 53700 180\r\nchp 1\r\nfreq 66200 180\r\nchp 0\r\n#Pineal activator\r\nfreq 93600 180\r\nbeep 200\r\noff\r\n@\r\n"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      },
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 110
+      }
+    ],
+    "uuid": [
+      {
+        "value": "e98cbb13-776f-49ee-a9e4-8748f5254ba6"
+      }
+    ],
+    "vid": [
+      {
+        "value": 838
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2018-01-16T12:04:05+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Test multiZAP"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2018-01-16T12:03:46+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-02-27T15:50:42+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp\u003E\u0026nbsp;Pozwala przetestowa\u0107 \u0142adowanie skryptu do multiZAPa oraz czy urz\u0105dzenie dzia\u0142a\u0026nbsp;prawid\u0142owo.\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp\u003E\u00a0Pozwala przetestowa\u0107 \u0142adowanie skryptu do multiZAPa oraz czy urz\u0105dzenie dzia\u0142a\u00a0prawid\u0142owo.\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 360
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "# TEST\r\nwait 3000\r\n#pbar 100 70\r\n\r\nvampl 800\r\nvmin 100\r\n\r\n#Label 1\r\n:1 4\r\nbeep 100\r\nfreq 1000 5\r\npin3 ~\r\njump 1\r\n\r\nvmin 400\r\nvampl 100\r\n\r\nfreq 783 60\r\nbeep 100\r\n\r\nbeep 500\r\n@"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 107
+      }
+    ],
+    "uuid": [
+      {
+        "value": "80364dc8-da1c-47e2-8a14-72801977ffe1"
+      }
+    ],
+    "vid": [
+      {
+        "value": 834
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2018-01-06T20:17:10+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Zaburzenie kr\u0105\u017cenia obwodowego"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2018-01-06T20:17:10+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-02-15T18:27:48+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp\u003EZaburzenie kr\u0105\u017cenia obwodowego. Szumy uszne. 3 x tygodniowo, wieczorem. Opracowano na podstawie Fizykoterapia, wyd. PZWL, Tadeusz Mika i Wojciech Kasprzak, ISBN 978-83-200-4663-2\u003C\/p\u003E\r\n\r\n\u003Cp\u003ECewk\u0119 pomara\u0144czow\u0105 przyk\u0142ada\u0107 do aorty lub t\u0119tnicy szyjnej.\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp\u003EZaburzenie kr\u0105\u017cenia obwodowego. Szumy uszne. 3 x tygodniowo, wieczorem. Opracowano na podstawie Fizykoterapia, wyd. PZWL, Tadeusz Mika i Wojciech Kasprzak, ISBN 978-83-200-4663-2\u003C\/p\u003E\n\n\u003Cp\u003ECewk\u0119 pomara\u0144czow\u0105 przyk\u0142ada\u0107 do aorty lub t\u0119tnicy szyjnej.\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 14
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "# Zaburzenia krazenia\r\n# 16min\r\nbeep 200\r\nrec 1350 120\r\nchp 1\r\nrec 1350 120\r\nchp 0\r\nrec 1350 120\r\nchp 1\r\nrec 1350 120\r\nchp 0\r\nrec 1350 120\r\nchp 1\r\nrec 1350 120\r\nchp 0\r\nrec 1350 120\r\nchp 1\r\nrec 1350 120\r\nchp 0\r\nbeep 200\r\noff"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 103
+      }
+    ],
+    "uuid": [
+      {
+        "value": "60802009-942d-4574-b843-2bd8706d9ea6"
+      }
+    ],
+    "vid": [
+      {
+        "value": 819
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2017-12-26T11:40:47+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "OOBE wg Bzomy"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2017-12-26T11:40:47+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2017-12-26T11:50:43+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp class=\u0022text-align-justify\u0022\u003EZainspirowany odkryciami i ksi\u0105\u017ckami lek. med. Jaros\u0142awa Bzomy, w ramach swojego eksperymentu, przygotowa\u0142em 20 minutowy skrypt do \u0022opuszczania cia\u0142a\u0022 i osi\u0105gania stanu OOBE (\u003Ca href=\u0022https:\/\/www.google.pl\/search?q=Out+Of+Body+Experience\u0022 id=\u0022fprsl\u0022 target=\u0022_blank\u0022\u003EOut Of Body\u0026nbsp;\u003Cb\u003E\u003Ci\u003EExperience\u003C\/i\u003E\u003C\/b\u003E\u003C\/a\u003E)\u0026nbsp;K\u0142adziemy si\u0119 na macie, na prawym boku. Bardziej szczeg\u00f3\u0142ow\u0105 instrukcj\u0119 znajdziesz na YT w \u003Ca href=\u0022https:\/\/www.youtube.com\/results?search_query=opowie%C5%9Bci+topografa\u0022 target=\u0022_blank\u0022\u003EOpowie\u015bciach Topografa\u003C\/a\u003E. Urz\u0105dzenie wy\u0142\u0105cza si\u0119 bezszelestnie, aby nie zak\u0142\u00f3ca\u0107 stanu eksterytorializacji.\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp class=\u0022text-align-justify\u0022\u003EZainspirowany odkryciami i ksi\u0105\u017ckami lek. med. Jaros\u0142awa Bzomy, w ramach swojego eksperymentu, przygotowa\u0142em 20 minutowy skrypt do \u0022opuszczania cia\u0142a\u0022 i osi\u0105gania stanu OOBE (\u003Ca href=\u0022https:\/\/www.google.pl\/search?q=Out+Of+Body+Experience\u0022 id=\u0022fprsl\u0022 target=\u0022_blank\u0022\u003EOut Of Body\u00a0\u003Cb\u003E\u003Ci\u003EExperience\u003C\/i\u003E\u003C\/b\u003E\u003C\/a\u003E)\u00a0K\u0142adziemy si\u0119 na macie, na prawym boku. Bardziej szczeg\u00f3\u0142ow\u0105 instrukcj\u0119 znajdziesz na YT w \u003Ca href=\u0022https:\/\/www.youtube.com\/results?search_query=opowie%C5%9Bci+topografa\u0022 target=\u0022_blank\u0022\u003EOpowie\u015bciach Topografa\u003C\/a\u003E. Urz\u0105dzenie wy\u0142\u0105cza si\u0119 bezszelestnie, aby nie zak\u0142\u00f3ca\u0107 stanu eksterytorializacji.\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 30
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "#OOBE wg Bzomy\r\n#20min\r\nwait 3000\r\nrec 2700 1200\r\noff\r\n@"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      },
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 101
+      }
+    ],
+    "uuid": [
+      {
+        "value": "4a0b3a08-3f82-44e4-a273-9d343c81668d"
+      }
+    ],
+    "vid": [
+      {
+        "value": 816
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2017-12-10T16:46:21+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Borelioza - cz\u0119\u015b\u0107 pierwsza"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2017-12-10T16:46:21+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-01-16T11:58:51+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp class=\u0022text-align-justify\u0022\u003ETerapia zosta\u0142a\u0026nbsp;stworzona na podstawie \u003Ca href=\u0022http:\/\/ensopublishing.com\/pl\/ksiazki\/119-katalog-czestotliwosci-pasozytow-podrecznik-rife-clark\u0022 target=\u0022_blank\u0022\u003Eksi\u0105\u017cki.\u003C\/a\u003E Niemniej proces terapeutyczny jest bardziej\u0026nbsp;z\u0142o\u017cony i wymaga zmiany programu w jej trakcie. Trzeba u\u017cywa\u0107 kilku program\u00f3w i je nieustannie zmienia\u0107. ten skrypt mo\u017ce pos\u0142u\u017cy\u0107 jako pocz\u0105tek biorezonansowej. Program terapii\u0026nbsp; mo\u017ce stanowi\u0107 baz\u0119 do opracowania w\u0142asnego podej\u015bcia na bazie literatury fachowej. Ka\u017cdy zarejestrowany u\u017cytkownik mo\u017ce samodzielnie tworzy\u0107 terapie i je publikowa\u0107.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003ENale\u017cy u\u017cywa\u0107 maty 20-30om.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u0179r\u00f3d\u0142o: dr.\u0026nbsp;Nenah Silver\u0026nbsp;\u003Ci\u003E\u003Cb\u003EPodr\u0119cznik Rife\u0027a. Katalog cz\u0119stotliwo\u015bci paso\u017cyt\u00f3w\u0026nbsp;\u003C\/b\u003E\u2013 wydawnictwo: Enso Publishing 2013\u0026nbsp;ISBN: 978-83-932269-4-8\u003C\/i\u003E\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp class=\u0022text-align-justify\u0022\u003ETerapia zosta\u0142a\u00a0stworzona na podstawie \u003Ca href=\u0022http:\/\/ensopublishing.com\/pl\/ksiazki\/119-katalog-czestotliwosci-pasozytow-podrecznik-rife-clark\u0022 target=\u0022_blank\u0022\u003Eksi\u0105\u017cki.\u003C\/a\u003E Niemniej proces terapeutyczny jest bardziej\u00a0z\u0142o\u017cony i wymaga zmiany programu w jej trakcie. Trzeba u\u017cywa\u0107 kilku program\u00f3w i je nieustannie zmienia\u0107. ten skrypt mo\u017ce pos\u0142u\u017cy\u0107 jako pocz\u0105tek biorezonansowej. Program terapii\u00a0 mo\u017ce stanowi\u0107 baz\u0119 do opracowania w\u0142asnego podej\u015bcia na bazie literatury fachowej. Ka\u017cdy zarejestrowany u\u017cytkownik mo\u017ce samodzielnie tworzy\u0107 terapie i je publikowa\u0107.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003ENale\u017cy u\u017cywa\u0107 maty 20-30om.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u0179r\u00f3d\u0142o: dr.\u00a0Nenah Silver\u00a0\u003Ci\u003E\u003Cb\u003EPodr\u0119cznik Rife\u0027a. Katalog cz\u0119stotliwo\u015bci paso\u017cyt\u00f3w\u00a0\u003C\/b\u003E\u2013 wydawnictwo: Enso Publishing 2013\u00a0ISBN: 978-83-932269-4-8\u003C\/i\u003E\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 180
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "#Borlioza 30min\r\nwait 3000\r\npbar 100 1800\r\nfreq 20300 180\r\nfreq 41200 180\r\nfreq 41400 180\r\nfreq 58900 180\r\nfreq 64000 180\r\nfreq 66700 180\r\nfreq 84000 180\r\nfreq 107200 180\r\nfreq 108700 180\r\nfreq 855400 180\r\nbeep 500\r\noff"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 71
+      }
+    ],
+    "uuid": [
+      {
+        "value": "a5eb6601-26a8-48bb-8489-6074e245ea8d"
+      }
+    ],
+    "vid": [
+      {
+        "value": 713
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2017-10-13T18:41:14+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 1,
+        "target_type": "user",
+        "target_uuid": "2e46c057-69fc-42c8-a2b9-7b4e15e61aec",
+        "url": "\/user\/1"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Astma oskrzelowa"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2017-09-23T17:54:48+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2017-12-03T12:19:03+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp class=\u0022text-align-justify\u0022\u003ETerapia ma na celu dzia\u0142anie przeciw-obrz\u0119kowe i poprawiaj\u0105ce dro\u017cno\u015b\u0107 dr\u00f3g oddechowych. Nie wp\u0142ywa na przyczyn\u0119 choroby.G\u0142\u00f3wnie jest skuteczna poprzez efekt wazodylatacyjny (zwi\u0119kszenie obj\u0119to\u015bci uk\u0142adu krwiono\u015bnego, polepszenie ukrwienia\u0026nbsp;i skuteczniejsze natlenienie). Do terapii nale\u017cy zastosowa\u0107 cewk\u0119 pomara\u0144czow\u0105, z podw\u00f3jnie zwini\u0119t\u0105 p\u0119tl\u0105 (indukcja magnetyczna ok.\u0026nbsp;3mT). Terapi\u0119 stosowa\u0107 nale\u017cy przez 5 dni, rano i wieczorem. Czas terapii 32\u0026nbsp;minut nale\u017cy podzieli\u0107 na cztery cz\u0119\u015bci, tak, aby pokry\u0107 ca\u0142\u0105 powierzchni\u0119 p\u0142uc. Urz\u0105dzenie odmierza czas i co 8 minut generuje kr\u00f3tki sygna\u0142 d\u017awi\u0119kowy.\u0026nbsp;W ka\u017cdej \u0107wiartce nale\u017cy przyk\u0142ada\u0107 cewk\u0119 do innej cz\u0119\u015bci p\u0142uc w kolejno\u015bci zaznaczonej na rysunku. Nale\u017cy szczeg\u00f3ln\u0105 uwag\u0119 zwr\u00f3ci\u0107 na \u0107wiartk\u0119 czwart\u0105 znajduj\u0105c\u0105 si\u0119 tu\u017c przed sercem (po lewej stronie).\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u0179r\u00f3d\u0142o:\u0026nbsp;\u003Ca href=\u0022https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/14708875\u0022 target=\u0022_blank\u0022\u003ENCBI \u003C\/a\u003E[2017-09]\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Cimg alt=\u0022Astma oskrzelowa - 4 cz\u0119\u015bci\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u00221f544ff0-4a05-4750-b101-828a53d84111\u0022 src=\u0022\/sites\/default\/files\/inline-images\/Astma%20oskrzelowa.png\u0022 \/\u003E\u003C\/p\u003E\r\n\r\n\u003Cp\u003ECewka pomara\u0144czowa\u003C\/p\u003E\r\n\r\n\u003Ctable border=\u00221\u0022 cellpadding=\u00221\u0022 cellspacing=\u00221\u0022\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth scope=\u0022col\u0022\u003EOznaczenie\u003C\/th\u003E\r\n\t\t\t\u003Cth scope=\u0022col\u0022\u003ERezystancja [om]\u003C\/th\u003E\r\n\t\t\t\u003Cth scope=\u0022col\u0022\u003ELiczba zwoj\u00f3w \u0026nbsp;\u003C\/th\u003E\r\n\t\t\t\u003Cth scope=\u0022col\u0022\u003EPromie\u0144 cewki [cm]\u003C\/th\u003E\r\n\t\t\t\u003Cth scope=\u0022col\u0022\u003E\u015arednica drutu [mm]\u003C\/th\u003E\r\n\t\t\t\u003Cth scope=\u0022col\u0022\u003EIndukcja w impulsie [uT]\u003C\/th\u003E\r\n\t\t\t\u003Cth scope=\u0022col\u0022\u003EIndukcja RMS [uT]\u003C\/th\u003E\r\n\t\t\t\u003Cth scope=\u0022col\u0022\u003EMoc RMS [W]\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003EPomara\u0144czowa\u003C\/strong\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E9,4\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E102\/204\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E10 \/ 5\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E0,4\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E877 \/ 3500\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E438\/1750\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E7,6\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp class=\u0022text-align-justify\u0022\u003ETerapia ma na celu dzia\u0142anie przeciw-obrz\u0119kowe i poprawiaj\u0105ce dro\u017cno\u015b\u0107 dr\u00f3g oddechowych. Nie wp\u0142ywa na przyczyn\u0119 choroby.G\u0142\u00f3wnie jest skuteczna poprzez efekt wazodylatacyjny (zwi\u0119kszenie obj\u0119to\u015bci uk\u0142adu krwiono\u015bnego, polepszenie ukrwienia\u00a0i skuteczniejsze natlenienie). Do terapii nale\u017cy zastosowa\u0107 cewk\u0119 pomara\u0144czow\u0105, z podw\u00f3jnie zwini\u0119t\u0105 p\u0119tl\u0105 (indukcja magnetyczna ok.\u00a03mT). Terapi\u0119 stosowa\u0107 nale\u017cy przez 5 dni, rano i wieczorem. Czas terapii 32\u00a0minut nale\u017cy podzieli\u0107 na cztery cz\u0119\u015bci, tak, aby pokry\u0107 ca\u0142\u0105 powierzchni\u0119 p\u0142uc. Urz\u0105dzenie odmierza czas i co 8 minut generuje kr\u00f3tki sygna\u0142 d\u017awi\u0119kowy.\u00a0W ka\u017cdej \u0107wiartce nale\u017cy przyk\u0142ada\u0107 cewk\u0119 do innej cz\u0119\u015bci p\u0142uc w kolejno\u015bci zaznaczonej na rysunku. Nale\u017cy szczeg\u00f3ln\u0105 uwag\u0119 zwr\u00f3ci\u0107 na \u0107wiartk\u0119 czwart\u0105 znajduj\u0105c\u0105 si\u0119 tu\u017c przed sercem (po lewej stronie).\u003C\/p\u003E\n\n\u003Cp\u003E\u0179r\u00f3d\u0142o:\u00a0\u003Ca href=\u0022https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/14708875\u0022 target=\u0022_blank\u0022\u003ENCBI \u003C\/a\u003E[2017-09]\u003C\/p\u003E\n\n\u003Cp\u003E\u003Cimg alt=\u0022Astma oskrzelowa - 4 cz\u0119\u015bci\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u00221f544ff0-4a05-4750-b101-828a53d84111\u0022 src=\u0022\/sites\/default\/files\/inline-images\/Astma%20oskrzelowa.png\u0022 \/\u003E\u003C\/p\u003E\n\n\u003Cp\u003ECewka pomara\u0144czowa\u003C\/p\u003E\n\n\u003Ctable border=\u00221\u0022 cellpadding=\u00221\u0022 cellspacing=\u00221\u0022\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth scope=\u0022col\u0022\u003EOznaczenie\u003C\/th\u003E\n\t\t\t\u003Cth scope=\u0022col\u0022\u003ERezystancja [om]\u003C\/th\u003E\n\t\t\t\u003Cth scope=\u0022col\u0022\u003ELiczba zwoj\u00f3w \u00a0\u003C\/th\u003E\n\t\t\t\u003Cth scope=\u0022col\u0022\u003EPromie\u0144 cewki [cm]\u003C\/th\u003E\n\t\t\t\u003Cth scope=\u0022col\u0022\u003E\u015arednica drutu [mm]\u003C\/th\u003E\n\t\t\t\u003Cth scope=\u0022col\u0022\u003EIndukcja w impulsie [uT]\u003C\/th\u003E\n\t\t\t\u003Cth scope=\u0022col\u0022\u003EIndukcja RMS [uT]\u003C\/th\u003E\n\t\t\t\u003Cth scope=\u0022col\u0022\u003EMoc RMS [W]\u003C\/th\u003E\n\t\t\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003E\u003Cstrong\u003EPomara\u0144czowa\u003C\/strong\u003E\u003C\/td\u003E\n\t\t\t\u003Ctd\u003E9,4\u003C\/td\u003E\n\t\t\t\u003Ctd\u003E102\/204\u003C\/td\u003E\n\t\t\t\u003Ctd\u003E10 \/ 5\u003C\/td\u003E\n\t\t\t\u003Ctd\u003E0,4\u003C\/td\u003E\n\t\t\t\u003Ctd\u003E877 \/ 3500\u003C\/td\u003E\n\t\t\t\u003Ctd\u003E438\/1750\u003C\/td\u003E\n\t\t\t\u003Ctd\u003E7,6\u003C\/td\u003E\n\t\t\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 7
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "#astma oskrzelowa \/ bronchial asthma\r\n#https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/14708875\r\n#cewka pomaranczowa \/ orange coil ~3mT\r\nbeep 200\r\nrec 400 120\r\nchp 1\r\nrec 400 120\r\nchp 0\r\nrec 400 120\r\nchp 1\r\nrec 400 120\r\nchp 0\r\nbeep 100\r\nrec 400 120\r\nchp 1\r\nrec 400 120\r\nchp 0\r\nrec 400 120\r\nchp 1\r\nrec 400 120\r\nchp 0\r\nbeep 100\r\nrec 400 120\r\nchp 1\r\nrec 400 120\r\nchp 0\r\nrec 400 120\r\nchp 1\r\nrec 400 120\r\nchp 0\r\nbeep 100\r\nrec 400 120\r\nchp 1\r\nrec 400 120\r\nchp 0\r\nrec 400 120\r\nchp 1\r\nrec 400 120\r\nbeep 200\r\noff\r\n@\r\n"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      },
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 33
+      }
+    ],
+    "uuid": [
+      {
+        "value": "f45d4a77-77c5-4f81-a73d-ed1b2d6a87a9"
+      }
+    ],
+    "vid": [
+      {
+        "value": 461
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2017-05-21T09:07:29+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "revision_log": [
+      {
+        "value": "Pe\u0142na"
+      }
+    ],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Grzybica paznokci"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2017-05-21T07:45:19+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2017-12-03T12:20:54+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp class=\u0022text-align-justify\u0022\u003E\u0026nbsp;Jest to jedyna metoda ca\u0142kowicie wymy\u015blona przeze mnie. Zaczn\u0119 od genezy pomys\u0142u na t\u0105 terapi\u0119. Kilkana\u015bcie lat boryka\u0142em si\u0119 z lekooporn\u0105 grzybic\u0105 paluch\u00f3w obu st\u00f3p. Przeszed\u0142em w tym czasie wiele kuracji, wi\u0119cej ni\u017c mam palc\u00f3w u n\u00f3g i r\u0105k, a stosowanie lek\u00f3w doustnych na grzybic\u0119 nie jest przecie\u017c oboj\u0119tne dla zdrowia. Pr\u00f3bowa\u0142em tak\u017ce metod alternatywnych. Najlepsze rezultaty, kt\u00f3re uzyska\u0142em to ograniczenie ca\u0142kowitego upo\u015bledzenia p\u0142ytki paznokcia. Powierzchnia wygl\u0105da\u0142a dobrze, ale grzybnia bez problemu potrafi\u0142a przetrwa\u0107 w korzeniu paznokcia i si\u0119 znowu rozwin\u0105\u0107. Badania mykologiczne najcz\u0119\u015bciej ko\u0144czy\u0142y si\u0119 wynikiem ujemnym. Pr\u00f3bowa\u0142em r\u00f3wnie\u017c u\u017cy\u0107 zappera Huldy Clark. Bez rezultat\u00f3w. Po zobaczeniu programu \u003Cem\u003EZapper mity i fakty\u003C\/em\u003E oraz po zapoznaniu si\u0119 z badaniami \u003Cem\u003Ein vitro\u003C\/em\u003E, skonstruowa\u0142em ulepszone urz\u0105dzenie \u003Cstrong\u003Ezapper-plus\u003C\/strong\u003E. \u003Ca href=\u0022http:\/\/biotronika.pl\/czym-jest-zapper-plus\u0022 target=\u0022_blank\u0022\u003EOpis jak to dzia\u0142a i link do bada\u0144.\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Ciframe allowfullscreen=\u0022\u0022 frameborder=\u00220\u0022 height=\u0022190\u0022 src=\u0022\/\/www.youtube.com\/embed\/DmAX6ntz0m0\u0022 width=\u0022310\u0022\u003E\u003C\/iframe\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003ENat\u0119\u017cenie p\u0142yn\u0105cego pr\u0105du przez palucha u nogi oraz kciuk u r\u0119ki powinno wynosi\u0107 od \u003Cstrong\u003E20\u003C\/strong\u003E do \u003Cstrong\u003E50uA\u003C\/strong\u003E. Dla palca od \u003Cstrong\u003E15\u003C\/strong\u003E do \u003Cstrong\u003E40uA.\u003C\/strong\u003E je\u015bli b\u0119dziemy stosowa\u0107 terapi\u0119 u kilku palc\u00f3w naraz, nale\u017cy pr\u0105dy zsumowa\u0107. W przypadku stosowaniu kilku elektrod po\u0142\u0105czonych razem lub d\u0142ugiej elektrody paskowej uzyskujemy po\u0142\u0105czenie r\u00f3wnoleg\u0142e.\u0026nbsp; Stosowanie ma\u0142ych pr\u0105d\u00f3w, rz\u0119du \u003Cstrong\u003E15-50uA\u003C\/strong\u003E wymaga\u0107 b\u0119dzie modyfikacji zappera-plusa. Je\u015bli terapi\u0119 zastosujesz do kilku palc\u00f3w na raz i chcesz uzyska\u0107 pr\u0105d powy\u017cej 100uA \u003Cu\u003Enie modyfikuj urz\u0105dzenia\u003C\/u\u003E.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003EKrokiem pierwszym jest\u0026nbsp; zmodyfikowanie zappera-plusa (wy\u0142\u0105cznie kiedy jest konieczne). Warto\u015b\u0107 mierzonego pr\u0105du zale\u017cy od u\u017cytego urz\u0105dzenia pomiarowego. Ja mam urz\u0105dzenie z amperomierzem 0-100uA z dodatkowym rezystorem przeskalowuj\u0105cym na x10 (czyli 0-1000uA). Wobec tego \u003Cstrong\u003Erezystor bocznikuj\u0105cy nale\u017cy od\u0142\u0105czy\u0107\u0026nbsp; jak pokazano to na zdj\u0119ciu.\u003C\/strong\u003E Ta zmiana powoduje, \u017ce b\u0119dziemy u\u017cywa\u0107 skali oryginalnej mikroamperomierza do tej terapii. (bez przeskalowania). W przypadku amperomierzy 75 i 50uA po modyfikacji miernik zapper-plus b\u0119dzie tak\u017ce pokazywa\u0142 pr\u0105d w skali oryginalnej.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003EZ lewej przed, z prawej po modyfikacji.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cimg alt=\u0022Przed\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022fc446641-71c4-4af9-a5ea-0fd1e74bce04\u0022 height=\u0022389\u0022 src=\u0022\/sites\/default\/files\/inline-images\/Przed.jpg\u0022 width=\u0022219\u0022 \/\u003E\u003Cimg alt=\u0022Po\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022c8fca5b7-4a43-4dc2-b8ae-979d40cb61ce\u0022 height=\u0022389\u0022 src=\u0022\/sites\/default\/files\/inline-images\/Po.jpg\u0022 width=\u0022219\u0022 \/\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cstrong\u003E\u003Cspan style=\u0022background-color:#ffd700;\u0022\u003EUwaga: Po modyfikacji nie wolno u\u017cywa\u0107 przycisku testu baterii, a po sko\u0144czeniu tej terapii przywr\u00f3ci\u0107 urz\u0105dzenie zapper-plus do stanu pocz\u0105tkowego.\u003C\/span\u003E\u003C\/strong\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003ETerapia sk\u0142ada si\u0119 z dw\u00f3ch zabieg\u00f3w:\u003C\/p\u003E\r\n\r\n\u003Col\u003E\r\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EZastosowaniu lakieru do leczenia grzybicy - ja zastosowa\u0142em dost\u0119pny bez recepty firmy \u003Ca href=\u0022http:\/\/www.scholl.pl\/produkty-do-pielegnacji-stop\/grzybica-paznokci\/scholl-preparat-na-grzybice-paznokci-3-8-ml\/\u0022 target=\u0022_blank\u0022\u003EScholl [2017-05]\u003C\/a\u003E\u003C\/li\u003E\r\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EU\u017cycia zappera-plusa przez 2 tygodnie - 2 x dziennie po 21 minut.\u003C\/li\u003E\r\n\u003C\/ol\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E1. Lakier nale\u017cy kupi\u0107 i post\u0119powa\u0107 zgodnie z recept\u0105 do niego do\u0142\u0105czon\u0105. Do pierwszego spi\u0142owania p\u0142ytki paznokcia najlepiej kupi\u0107 metalowy pilnik do paznokci, kt\u00f3ry po pierwszym u\u017cyciu wyrzucamy. Spi\u0142owujemy paznokcie tak, aby przecieni\u0107 p\u0142ytk\u0119 paznokcia na ca\u0142ej jego powierzchni, ale tak, aby nie dopi\u0142owa\u0107 do sk\u00f3ry znajduj\u0105cej si\u0119 pod nim. Jest to bardzo wa\u017cne, bo lakieru nie mo\u017cemy nanosi\u0107 na sk\u00f3r\u0119. Lakierem malujemy wy\u0142\u0105cznie p\u0142ytk\u0119 paznokcia. Je\u015bli p\u0142ytka jest maksymalnie cienka to lakier powinien skutecznie zahamowa\u0107 aktywny rozw\u00f3j grzybicy w ods\u0142oni\u0119tej cz\u0119\u015bci paznokcia. Nie dzia\u0142a jednak na grzybni\u0119 znajduj\u0105c\u0105 si\u0119 w jego korzeniu. Lakier i pilniki z nim dostarczone nale\u017cy stosowa\u0107 zgodnie z instrukcj\u0105 czyli nast\u0119pne tygodnie i miesi\u0105ce.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E2. Po pierwszym zabiegu z lakierem rozpoczynamy terapi\u0119 zapperem. Ma na celu wyeliminowa\u0107 grzybni\u0119 z korzenia paznokcia.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003EB\u0119dziemy potrzebowa\u0107:\u003C\/p\u003E\r\n\r\n\u003Col\u003E\r\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EChusteczki higieniczne lub r\u0119cznik papierowy\u003C\/li\u003E\r\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EWodny roztw\u00f3r soli kuchennej. Na szklank\u0119 letniej wody dwie-trzy \u0142y\u017cki sto\u0142owe. Najlepiej zastosowa\u0107 atomizer do rozprowadzania. Mo\u017cna te\u017c mieszanin\u0119 srebra koloidalnego (suplement) z roztworem soli kuchennej. Patrz\u0026nbsp;na dodatek na dole strony.\u003C\/li\u003E\r\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EZappera-plusa oraz okablowania do niego\u003C\/li\u003E\r\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EKawa\u0142ka blachy miedzianej - wycinamy elektrod\u0119 paskow\u0105. D\u0142ugo\u015b\u0107 zale\u017cy od ilo\u015bci palc\u00f3w, kt\u00f3re chcemy podda\u0107 terapii. \u003Ca href=\u0022http:\/\/biotronika.pl\/elektrody\u0022 target=\u0022_blank\u0022\u003EWi\u0119cej o elektrodach\u003C\/a\u003E.\u003C\/li\u003E\r\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EElektrody odp\u0142ywowej, mo\u017ce by\u0107 obr\u0105czkowa lub nawet rurkowa, kt\u00f3ra b\u0119dzie przytrzymywana podbiciem pi\u0119ty. Ja stosuj\u0119 klamrow\u0105.\u003C\/li\u003E\r\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EPlaster bez opatrunku z wiskozy (mo\u017cna przedziera\u0107 go w r\u0119kach).\u003C\/li\u003E\r\n\u003C\/ol\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cimg alt=\u0022zapper-plus1\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022e7a2432c-9634-4eb0-8e52-7e40765c7a3e\u0022 height=\u0022387\u0022 src=\u0022\/sites\/default\/files\/inline-images\/zapper-plus1.jpg\u0022 width=\u0022504\u0022 \/\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u0026nbsp;\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003ETerapi\u0119 zapperem zaczynamy od rozgrzania stopy\/r\u0119ki w ciep\u0142ej wodzie, poniewa\u017c lepsze ukrwienie to lepsza przewodno\u015b\u0107 pr\u0105du. W przypadku stopy mo\u017cna pos\u0142u\u017cy\u0107 si\u0119 pumeksem i zetrze\u0107 martwy nask\u00f3rek tu\u017c przy p\u0142ytce paznokcia. Zabieg z pumeksem robimy tylko raz - powinien on zapewni\u0107 odpowiedni\u0105 przewodno\u015b\u0107 sk\u00f3ry na ca\u0142y okres terapii. Do rozgrzania mo\u017cemy wykorzysta\u0107 free-PEMF - program 2 z cewk\u0105 pomara\u0144czow\u0105 zawini\u0119t\u0105 2 razy na nogach\/r\u0119kach. Po rozgrzaniu st\u00f3p\/r\u0105k wycinamy pasek chusteczki higienicznej szeroko\u015bci oko\u0142o 7 mm i nas\u0105czamy j\u0105 roztworem soli. Zak\u0142adamy j\u0105 na ko\u0144cu palca u nasady paznokcia. Nast\u0119pnie nak\u0142adamy elektrod\u0119 paskow\u0105 i przyklejamy do palca. Pod\u0142\u0105czamy elektrody. \u003Cstrong\u003EZabieg trwa 2 x 10 minut + 1 minuta.\u003C\/strong\u003E Przez pierwsze 10 minut plus (czerwony zacisk) pod\u0142\u0105czamy do palca, a minus (czarny) do elektrody odp\u0142ywowej. Po 10 minutach zamieniamy zaciski. Po nast\u0119pnych 10 minutach zamieniamy ponownie i odczekujemy tylko 1 minut\u0119, po czym od\u0142\u0105czamy urz\u0105dzenie. Regulujemy potencjometrem pr\u0105d 20-50uA \/ palucha (15-40uA\/ innego palca).\u0026nbsp; Je\u015bli warto\u015b\u0107 wzro\u015bnie ponad miar\u0119 to go zmniejszamy. W przypadku zbyt ma\u0142ego pr\u0105du trzeba poprawi\u0107 monta\u017c elektrody lub dopilnowa\u0107 odpowiedniego przygotowania palca do zabiegu.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cimg alt=\u0022zapper-plus2\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u00224ad590a0-3227-480a-aec1-fc5d77fd0618\u0022 height=\u0022396\u0022 src=\u0022\/sites\/default\/files\/inline-images\/zapper-plus2.jpg\u0022 width=\u0022509\u0022 \/\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003EPo pod\u0142\u0105czeniu elektrod jak na zdj\u0119ciu w\u0142\u0105czamy urz\u0105dzenie prze\u0142\u0105cznikiem do g\u00f3ry, nast\u0119pnie ustawiamy pr\u0105d w \u015brodkowo-g\u00f3rnym przedziale potencjometrem. Przekr\u0119caj\u0105c zgodnie ze wskaz\u00f3wkami zegara pr\u0105d zwi\u0119kszamy, a przeciwnie zmniejszamy. Na pocz\u0105tku mo\u017ce by\u0107 problem z uzyskaniem w\u0142a\u015bciwego nat\u0119\u017cenia w zakresie, ale ju\u017c po oko\u0142o 3 minutach powinno si\u0119 uda\u0107 ustawi\u0107 minimalny jego poziom.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003EJe\u015bli elektroda jest d\u0142uga zak\u0142adamy j\u0105 na kilka palc\u00f3w naraz. Pr\u0105d powinien by\u0107 odpowiednio wi\u0119kszy. Ka\u017cd\u0105 nog\u0119\/r\u0119k\u0119 zappujemy osobno.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003ETerapi\u0119 zapperem stosujemy przez \u003Cstrong\u003E14 dni - 2 x dziennie.\u003C\/strong\u003E Niezale\u017cnie od niej stosujemy si\u0119 do zalece\u0144 producenta lakieru przeciwgrzybiczego do paznokci. Po oko\u0142o 12 miesi\u0105cach p\u0142ytka paznokcia paluch powinna w ca\u0142o\u015bci odrosn\u0105\u0107 zdrowa. U palc\u00f3w r\u0119ki pe\u0142ny odrost trwa oko\u0142o 6 miesi\u0119cy.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u0026nbsp;\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cstrong\u003E[Dodano 06.06.2017]\u003C\/strong\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003EJeden z u\u017cytkownik\u00f3w zainspirowa\u0142 mnie sposobem na zwi\u0119kszenie skuteczno\u015bci terapii.\u0026nbsp;\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003EMaj\u0105c zappera-plusa nale\u017cy wyprodukowa\u0107 roztw\u00f3r \u003Cstrong\u003Esrebra koloidalnego*\u003C\/strong\u003E [\u003Ca href=\u0022\/srebro-koloidalne\u0022 target=\u0022_blank\u0022\u003Eopis tutaj\u003C\/a\u003E] o zawarto\u015bci oko\u0142o 50 ppm. Aby osi\u0105gn\u0105\u0107 t\u0119 zawarto\u015b\u0107 nale\u017cy czas drugiej fazy wytwarzania nale\u017cy wyd\u0142u\u017cy\u0107 do oko\u0142o 6h-8h. Nast\u0119pnie takiego roztworu\u0026nbsp;u\u017cywamy do nas\u0105czania chusteczki\/r\u0119cznika. Chodzi o to, \u017ceby pojedyncze atomy\u0026nbsp;srebra, kt\u00f3re dysocjuj\u0105 do jon\u00f3w Ag\u003Csup\u003E+\u003C\/sup\u003E wprowadzi\u0107 do miejsca woko\u0142o paznokcia i do jego korzenia. Zabieg znany jest pod nazw\u0105 \u003Cstrong\u003Ejonoforeza\u003C\/strong\u003E. Srebro dzia\u0142a silnie bakterio\u0026nbsp;i grzybob\u00f3jczo. W przypadku zastosowania takiego\u0026nbsp;roztworu zawsze pod\u0142\u0105czamy elektrod\u0119 przy paznokciu do zacisku\u0026nbsp;dodatniego (czerwonego) oraz\u0026nbsp;\u003Cu\u003Enie zamieniamy biegun\u00f3w przez ca\u0142y czas\u0026nbsp;zappowania\u003C\/u\u003E (oko\u0142o 20\u0026nbsp;minut).\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003EDodam tak\u017ce, \u017ce produkcja srebra koloidalnego na bazie roztworu soli kuchennej nie daje takiego\u0026nbsp;samego roztworu jak opisanego na portalu. Fakt proces jest szybszy, ale tworzy si\u0119 wtedy nierozpuszczalny w wodzie chlorek srebra, kt\u00f3ry opada\u0026nbsp;na dno w postaci bia\u0142ego nalotu, kt\u00f3ry z czasem ciemnieje.\u0026nbsp;\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E(*) Rozumiany jako\u0026nbsp;roztw\u00f3r soli\u0026nbsp;srebra, jego jon\u00f3w Ag\u003Csup\u003E+\u003C\/sup\u003E, a nie kolargol (koloid srebra\u0026nbsp;w \u017celu)\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u0026nbsp;\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp class=\u0022text-align-justify\u0022\u003E\u00a0Jest to jedyna metoda ca\u0142kowicie wymy\u015blona przeze mnie. Zaczn\u0119 od genezy pomys\u0142u na t\u0105 terapi\u0119. Kilkana\u015bcie lat boryka\u0142em si\u0119 z lekooporn\u0105 grzybic\u0105 paluch\u00f3w obu st\u00f3p. Przeszed\u0142em w tym czasie wiele kuracji, wi\u0119cej ni\u017c mam palc\u00f3w u n\u00f3g i r\u0105k, a stosowanie lek\u00f3w doustnych na grzybic\u0119 nie jest przecie\u017c oboj\u0119tne dla zdrowia. Pr\u00f3bowa\u0142em tak\u017ce metod alternatywnych. Najlepsze rezultaty, kt\u00f3re uzyska\u0142em to ograniczenie ca\u0142kowitego upo\u015bledzenia p\u0142ytki paznokcia. Powierzchnia wygl\u0105da\u0142a dobrze, ale grzybnia bez problemu potrafi\u0142a przetrwa\u0107 w korzeniu paznokcia i si\u0119 znowu rozwin\u0105\u0107. Badania mykologiczne najcz\u0119\u015bciej ko\u0144czy\u0142y si\u0119 wynikiem ujemnym. Pr\u00f3bowa\u0142em r\u00f3wnie\u017c u\u017cy\u0107 zappera Huldy Clark. Bez rezultat\u00f3w. Po zobaczeniu programu \u003Cem\u003EZapper mity i fakty\u003C\/em\u003E oraz po zapoznaniu si\u0119 z badaniami \u003Cem\u003Ein vitro\u003C\/em\u003E, skonstruowa\u0142em ulepszone urz\u0105dzenie \u003Cstrong\u003Ezapper-plus\u003C\/strong\u003E. \u003Ca href=\u0022http:\/\/biotronika.pl\/czym-jest-zapper-plus\u0022 target=\u0022_blank\u0022\u003EOpis jak to dzia\u0142a i link do bada\u0144.\u003C\/a\u003E\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Ciframe allowfullscreen=\u0022\u0022 frameborder=\u00220\u0022 height=\u0022190\u0022 src=\u0022\/\/www.youtube.com\/embed\/DmAX6ntz0m0\u0022 width=\u0022310\u0022\u003E\u003C\/iframe\u003E\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003ENat\u0119\u017cenie p\u0142yn\u0105cego pr\u0105du przez palucha u nogi oraz kciuk u r\u0119ki powinno wynosi\u0107 od \u003Cstrong\u003E20\u003C\/strong\u003E do \u003Cstrong\u003E50uA\u003C\/strong\u003E. Dla palca od \u003Cstrong\u003E15\u003C\/strong\u003E do \u003Cstrong\u003E40uA.\u003C\/strong\u003E je\u015bli b\u0119dziemy stosowa\u0107 terapi\u0119 u kilku palc\u00f3w naraz, nale\u017cy pr\u0105dy zsumowa\u0107. W przypadku stosowaniu kilku elektrod po\u0142\u0105czonych razem lub d\u0142ugiej elektrody paskowej uzyskujemy po\u0142\u0105czenie r\u00f3wnoleg\u0142e.\u00a0 Stosowanie ma\u0142ych pr\u0105d\u00f3w, rz\u0119du \u003Cstrong\u003E15-50uA\u003C\/strong\u003E wymaga\u0107 b\u0119dzie modyfikacji zappera-plusa. Je\u015bli terapi\u0119 zastosujesz do kilku palc\u00f3w na raz i chcesz uzyska\u0107 pr\u0105d powy\u017cej 100uA \u003Cu\u003Enie modyfikuj urz\u0105dzenia\u003C\/u\u003E.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003EKrokiem pierwszym jest\u00a0 zmodyfikowanie zappera-plusa (wy\u0142\u0105cznie kiedy jest konieczne). Warto\u015b\u0107 mierzonego pr\u0105du zale\u017cy od u\u017cytego urz\u0105dzenia pomiarowego. Ja mam urz\u0105dzenie z amperomierzem 0-100uA z dodatkowym rezystorem przeskalowuj\u0105cym na x10 (czyli 0-1000uA). Wobec tego \u003Cstrong\u003Erezystor bocznikuj\u0105cy nale\u017cy od\u0142\u0105czy\u0107\u00a0 jak pokazano to na zdj\u0119ciu.\u003C\/strong\u003E Ta zmiana powoduje, \u017ce b\u0119dziemy u\u017cywa\u0107 skali oryginalnej mikroamperomierza do tej terapii. (bez przeskalowania). W przypadku amperomierzy 75 i 50uA po modyfikacji miernik zapper-plus b\u0119dzie tak\u017ce pokazywa\u0142 pr\u0105d w skali oryginalnej.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003EZ lewej przed, z prawej po modyfikacji.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cimg alt=\u0022Przed\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022fc446641-71c4-4af9-a5ea-0fd1e74bce04\u0022 height=\u0022389\u0022 src=\u0022\/sites\/default\/files\/inline-images\/Przed.jpg\u0022 width=\u0022219\u0022 \/\u003E\u003Cimg alt=\u0022Po\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022c8fca5b7-4a43-4dc2-b8ae-979d40cb61ce\u0022 height=\u0022389\u0022 src=\u0022\/sites\/default\/files\/inline-images\/Po.jpg\u0022 width=\u0022219\u0022 \/\u003E\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cstrong\u003E\u003Cspan style=\u0022background-color:#ffd700;\u0022\u003EUwaga: Po modyfikacji nie wolno u\u017cywa\u0107 przycisku testu baterii, a po sko\u0144czeniu tej terapii przywr\u00f3ci\u0107 urz\u0105dzenie zapper-plus do stanu pocz\u0105tkowego.\u003C\/span\u003E\u003C\/strong\u003E\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003ETerapia sk\u0142ada si\u0119 z dw\u00f3ch zabieg\u00f3w:\u003C\/p\u003E\n\n\u003Col\u003E\u003Cli class=\u0022text-align-justify\u0022\u003EZastosowaniu lakieru do leczenia grzybicy - ja zastosowa\u0142em dost\u0119pny bez recepty firmy \u003Ca href=\u0022http:\/\/www.scholl.pl\/produkty-do-pielegnacji-stop\/grzybica-paznokci\/scholl-preparat-na-grzybice-paznokci-3-8-ml\/\u0022 target=\u0022_blank\u0022\u003EScholl [2017-05]\u003C\/a\u003E\u003C\/li\u003E\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EU\u017cycia zappera-plusa przez 2 tygodnie - 2 x dziennie po 21 minut.\u003C\/li\u003E\n\u003C\/ol\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E1. Lakier nale\u017cy kupi\u0107 i post\u0119powa\u0107 zgodnie z recept\u0105 do niego do\u0142\u0105czon\u0105. Do pierwszego spi\u0142owania p\u0142ytki paznokcia najlepiej kupi\u0107 metalowy pilnik do paznokci, kt\u00f3ry po pierwszym u\u017cyciu wyrzucamy. Spi\u0142owujemy paznokcie tak, aby przecieni\u0107 p\u0142ytk\u0119 paznokcia na ca\u0142ej jego powierzchni, ale tak, aby nie dopi\u0142owa\u0107 do sk\u00f3ry znajduj\u0105cej si\u0119 pod nim. Jest to bardzo wa\u017cne, bo lakieru nie mo\u017cemy nanosi\u0107 na sk\u00f3r\u0119. Lakierem malujemy wy\u0142\u0105cznie p\u0142ytk\u0119 paznokcia. Je\u015bli p\u0142ytka jest maksymalnie cienka to lakier powinien skutecznie zahamowa\u0107 aktywny rozw\u00f3j grzybicy w ods\u0142oni\u0119tej cz\u0119\u015bci paznokcia. Nie dzia\u0142a jednak na grzybni\u0119 znajduj\u0105c\u0105 si\u0119 w jego korzeniu. Lakier i pilniki z nim dostarczone nale\u017cy stosowa\u0107 zgodnie z instrukcj\u0105 czyli nast\u0119pne tygodnie i miesi\u0105ce.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E2. Po pierwszym zabiegu z lakierem rozpoczynamy terapi\u0119 zapperem. Ma na celu wyeliminowa\u0107 grzybni\u0119 z korzenia paznokcia.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003EB\u0119dziemy potrzebowa\u0107:\u003C\/p\u003E\n\n\u003Col\u003E\u003Cli class=\u0022text-align-justify\u0022\u003EChusteczki higieniczne lub r\u0119cznik papierowy\u003C\/li\u003E\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EWodny roztw\u00f3r soli kuchennej. Na szklank\u0119 letniej wody dwie-trzy \u0142y\u017cki sto\u0142owe. Najlepiej zastosowa\u0107 atomizer do rozprowadzania. Mo\u017cna te\u017c mieszanin\u0119 srebra koloidalnego (suplement) z roztworem soli kuchennej. Patrz\u00a0na dodatek na dole strony.\u003C\/li\u003E\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EZappera-plusa oraz okablowania do niego\u003C\/li\u003E\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EKawa\u0142ka blachy miedzianej - wycinamy elektrod\u0119 paskow\u0105. D\u0142ugo\u015b\u0107 zale\u017cy od ilo\u015bci palc\u00f3w, kt\u00f3re chcemy podda\u0107 terapii. \u003Ca href=\u0022http:\/\/biotronika.pl\/elektrody\u0022 target=\u0022_blank\u0022\u003EWi\u0119cej o elektrodach\u003C\/a\u003E.\u003C\/li\u003E\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EElektrody odp\u0142ywowej, mo\u017ce by\u0107 obr\u0105czkowa lub nawet rurkowa, kt\u00f3ra b\u0119dzie przytrzymywana podbiciem pi\u0119ty. Ja stosuj\u0119 klamrow\u0105.\u003C\/li\u003E\n\t\u003Cli class=\u0022text-align-justify\u0022\u003EPlaster bez opatrunku z wiskozy (mo\u017cna przedziera\u0107 go w r\u0119kach).\u003C\/li\u003E\n\u003C\/ol\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cimg alt=\u0022zapper-plus1\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022e7a2432c-9634-4eb0-8e52-7e40765c7a3e\u0022 height=\u0022387\u0022 src=\u0022\/sites\/default\/files\/inline-images\/zapper-plus1.jpg\u0022 width=\u0022504\u0022 \/\u003E\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u00a0\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003ETerapi\u0119 zapperem zaczynamy od rozgrzania stopy\/r\u0119ki w ciep\u0142ej wodzie, poniewa\u017c lepsze ukrwienie to lepsza przewodno\u015b\u0107 pr\u0105du. W przypadku stopy mo\u017cna pos\u0142u\u017cy\u0107 si\u0119 pumeksem i zetrze\u0107 martwy nask\u00f3rek tu\u017c przy p\u0142ytce paznokcia. Zabieg z pumeksem robimy tylko raz - powinien on zapewni\u0107 odpowiedni\u0105 przewodno\u015b\u0107 sk\u00f3ry na ca\u0142y okres terapii. Do rozgrzania mo\u017cemy wykorzysta\u0107 free-PEMF - program 2 z cewk\u0105 pomara\u0144czow\u0105 zawini\u0119t\u0105 2 razy na nogach\/r\u0119kach. Po rozgrzaniu st\u00f3p\/r\u0105k wycinamy pasek chusteczki higienicznej szeroko\u015bci oko\u0142o 7 mm i nas\u0105czamy j\u0105 roztworem soli. Zak\u0142adamy j\u0105 na ko\u0144cu palca u nasady paznokcia. Nast\u0119pnie nak\u0142adamy elektrod\u0119 paskow\u0105 i przyklejamy do palca. Pod\u0142\u0105czamy elektrody. \u003Cstrong\u003EZabieg trwa 2 x 10 minut + 1 minuta.\u003C\/strong\u003E Przez pierwsze 10 minut plus (czerwony zacisk) pod\u0142\u0105czamy do palca, a minus (czarny) do elektrody odp\u0142ywowej. Po 10 minutach zamieniamy zaciski. Po nast\u0119pnych 10 minutach zamieniamy ponownie i odczekujemy tylko 1 minut\u0119, po czym od\u0142\u0105czamy urz\u0105dzenie. Regulujemy potencjometrem pr\u0105d 20-50uA \/ palucha (15-40uA\/ innego palca).\u00a0 Je\u015bli warto\u015b\u0107 wzro\u015bnie ponad miar\u0119 to go zmniejszamy. W przypadku zbyt ma\u0142ego pr\u0105du trzeba poprawi\u0107 monta\u017c elektrody lub dopilnowa\u0107 odpowiedniego przygotowania palca do zabiegu.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cimg alt=\u0022zapper-plus2\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u00224ad590a0-3227-480a-aec1-fc5d77fd0618\u0022 height=\u0022396\u0022 src=\u0022\/sites\/default\/files\/inline-images\/zapper-plus2.jpg\u0022 width=\u0022509\u0022 \/\u003E\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003EPo pod\u0142\u0105czeniu elektrod jak na zdj\u0119ciu w\u0142\u0105czamy urz\u0105dzenie prze\u0142\u0105cznikiem do g\u00f3ry, nast\u0119pnie ustawiamy pr\u0105d w \u015brodkowo-g\u00f3rnym przedziale potencjometrem. Przekr\u0119caj\u0105c zgodnie ze wskaz\u00f3wkami zegara pr\u0105d zwi\u0119kszamy, a przeciwnie zmniejszamy. Na pocz\u0105tku mo\u017ce by\u0107 problem z uzyskaniem w\u0142a\u015bciwego nat\u0119\u017cenia w zakresie, ale ju\u017c po oko\u0142o 3 minutach powinno si\u0119 uda\u0107 ustawi\u0107 minimalny jego poziom.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003EJe\u015bli elektroda jest d\u0142uga zak\u0142adamy j\u0105 na kilka palc\u00f3w naraz. Pr\u0105d powinien by\u0107 odpowiednio wi\u0119kszy. Ka\u017cd\u0105 nog\u0119\/r\u0119k\u0119 zappujemy osobno.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003ETerapi\u0119 zapperem stosujemy przez \u003Cstrong\u003E14 dni - 2 x dziennie.\u003C\/strong\u003E Niezale\u017cnie od niej stosujemy si\u0119 do zalece\u0144 producenta lakieru przeciwgrzybiczego do paznokci. Po oko\u0142o 12 miesi\u0105cach p\u0142ytka paznokcia paluch powinna w ca\u0142o\u015bci odrosn\u0105\u0107 zdrowa. U palc\u00f3w r\u0119ki pe\u0142ny odrost trwa oko\u0142o 6 miesi\u0119cy.\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u00a0\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cstrong\u003E[Dodano 06.06.2017]\u003C\/strong\u003E\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003EJeden z u\u017cytkownik\u00f3w zainspirowa\u0142 mnie sposobem na zwi\u0119kszenie skuteczno\u015bci terapii.\u00a0\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003EMaj\u0105c zappera-plusa nale\u017cy wyprodukowa\u0107 roztw\u00f3r \u003Cstrong\u003Esrebra koloidalnego*\u003C\/strong\u003E [\u003Ca href=\u0022\/srebro-koloidalne\u0022 target=\u0022_blank\u0022\u003Eopis tutaj\u003C\/a\u003E] o zawarto\u015bci oko\u0142o 50 ppm. Aby osi\u0105gn\u0105\u0107 t\u0119 zawarto\u015b\u0107 nale\u017cy czas drugiej fazy wytwarzania nale\u017cy wyd\u0142u\u017cy\u0107 do oko\u0142o 6h-8h. Nast\u0119pnie takiego roztworu\u00a0u\u017cywamy do nas\u0105czania chusteczki\/r\u0119cznika. Chodzi o to, \u017ceby pojedyncze atomy\u00a0srebra, kt\u00f3re dysocjuj\u0105 do jon\u00f3w Ag\u003Csup\u003E+\u003C\/sup\u003E wprowadzi\u0107 do miejsca woko\u0142o paznokcia i do jego korzenia. Zabieg znany jest pod nazw\u0105 \u003Cstrong\u003Ejonoforeza\u003C\/strong\u003E. Srebro dzia\u0142a silnie bakterio\u00a0i grzybob\u00f3jczo. W przypadku zastosowania takiego\u00a0roztworu zawsze pod\u0142\u0105czamy elektrod\u0119 przy paznokciu do zacisku\u00a0dodatniego (czerwonego) oraz\u00a0\u003Cu\u003Enie zamieniamy biegun\u00f3w przez ca\u0142y czas\u00a0zappowania\u003C\/u\u003E (oko\u0142o 20\u00a0minut).\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003EDodam tak\u017ce, \u017ce produkcja srebra koloidalnego na bazie roztworu soli kuchennej nie daje takiego\u00a0samego roztworu jak opisanego na portalu. Fakt proces jest szybszy, ale tworzy si\u0119 wtedy nierozpuszczalny w wodzie chlorek srebra, kt\u00f3ry opada\u00a0na dno w postaci bia\u0142ego nalotu, kt\u00f3ry z czasem ciemnieje.\u00a0\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E(*) Rozumiany jako\u00a0roztw\u00f3r soli\u00a0srebra, jego jon\u00f3w Ag\u003Csup\u003E+\u003C\/sup\u003E, a nie kolargol (koloid srebra\u00a0w \u017celu)\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u00a0\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 180
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "# Dla zapper-plusa skrypt jest niepotrzebny"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "zapper-plus"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 28
+      }
+    ],
+    "uuid": [
+      {
+        "value": "68c63f82-98d7-48c2-8cf7-69faa58cb4ac"
+      }
+    ],
+    "vid": [
+      {
+        "value": 398
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2017-04-23T17:43:34+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 1,
+        "target_type": "user",
+        "target_uuid": "2e46c057-69fc-42c8-a2b9-7b4e15e61aec",
+        "url": "\/user\/1"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Zwichni\u0119ta \u0142apa u psa"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2017-04-23T17:43:34+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2017-10-21T18:21:50+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp class=\u0022text-align-justify\u0022\u003EPrzyspiesza leczenie i powr\u00f3t do sprawno\u015bci po kontuzji zwierz\u0119cia. Wcze\u015bniej nale\u017cy skonsultowa\u0107 kontuzj\u0119 u weterynarza i wykluczy\u0107 zerwanie wi\u0119zad\u0142a lub z\u0142amanie [\u003Ca href=\u0022https:\/\/youtu.be\/CNymdzyRavs\u0022 target=\u0022_blank\u0022\u003Ezerwanie wi\u0119zad\u0142a\u003C\/a\u003E 05-2017], gdy\u017c w tym wypadku konieczna jest interwencja medyczna. Terapia PEMF przyspiesza gojenie i\u0026nbsp; rehabilitacj\u0119 po zaopatrzeniu z\u0142amania lub zbiegu operacyjnym. Cewka pomara\u0144czowa\u0026nbsp; (3,5mT) lub niebieska (4,4mT) - \u003Ca href=\u0022\/Instrukcja-free-pemf\u0022 target=\u0022_blank\u0022\u003Epatrz instrukcja free-PEMF\u003C\/a\u003E.\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Cimg alt=\u00221\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022b484aaa1-be29-4af5-a41a-84cfa1ea44de\u0022 height=\u0022307\u0022 src=\u0022\/sites\/default\/files\/inline-images\/%C5%81atek1.jpg\u0022 width=\u0022478\u0022 \/\u003E\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Cimg alt=\u00222\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u00223146798f-c98b-478a-8df2-b32a1d592a7e\u0022 height=\u0022346\u0022 src=\u0022\/sites\/default\/files\/inline-images\/%C5%81atek2.jpg\u0022 width=\u0022480\u0022 \/\u003E\u003C\/p\u003E\r\n\r\n\u003Cp\u003EAnielska cierpliwo\u015b\u0107 \u0141atka:\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ciframe allowfullscreen=\u0022\u0022 frameborder=\u00220\u0022 height=\u0022360\u0022 src=\u0022\/\/www.youtube.com\/embed\/dhcMaIJTNtA\u0022 width=\u0022480\u0022\u003E\u003C\/iframe\u003E\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp class=\u0022text-align-justify\u0022\u003EPrzyspiesza leczenie i powr\u00f3t do sprawno\u015bci po kontuzji zwierz\u0119cia. Wcze\u015bniej nale\u017cy skonsultowa\u0107 kontuzj\u0119 u weterynarza i wykluczy\u0107 zerwanie wi\u0119zad\u0142a lub z\u0142amanie [\u003Ca href=\u0022https:\/\/youtu.be\/CNymdzyRavs\u0022 target=\u0022_blank\u0022\u003Ezerwanie wi\u0119zad\u0142a\u003C\/a\u003E 05-2017], gdy\u017c w tym wypadku konieczna jest interwencja medyczna. Terapia PEMF przyspiesza gojenie i\u00a0 rehabilitacj\u0119 po zaopatrzeniu z\u0142amania lub zbiegu operacyjnym. Cewka pomara\u0144czowa\u00a0 (3,5mT) lub niebieska (4,4mT) - \u003Ca href=\u0022\/Instrukcja-free-pemf\u0022 target=\u0022_blank\u0022\u003Epatrz instrukcja free-PEMF\u003C\/a\u003E.\u003C\/p\u003E\n\n\u003Cp\u003E\u003Cimg alt=\u00221\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022b484aaa1-be29-4af5-a41a-84cfa1ea44de\u0022 height=\u0022307\u0022 src=\u0022\/sites\/default\/files\/inline-images\/%C5%81atek1.jpg\u0022 width=\u0022478\u0022 \/\u003E\u003C\/p\u003E\n\n\u003Cp\u003E\u003Cimg alt=\u00222\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u00223146798f-c98b-478a-8df2-b32a1d592a7e\u0022 height=\u0022346\u0022 src=\u0022\/sites\/default\/files\/inline-images\/%C5%81atek2.jpg\u0022 width=\u0022480\u0022 \/\u003E\u003C\/p\u003E\n\n\u003Cp\u003EAnielska cierpliwo\u015b\u0107 \u0141atka:\u003C\/p\u003E\n\n\u003Cp\u003E\u003Ciframe allowfullscreen=\u0022\u0022 frameborder=\u00220\u0022 height=\u0022360\u0022 src=\u0022\/\/www.youtube.com\/embed\/dhcMaIJTNtA\u0022 width=\u0022480\u0022\u003E\u003C\/iframe\u003E\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [],
+    "field_skrypt": [
+      {
+        "value": "# Zwichniecie\r\n# 8 minut\r\nbeep 200\r\nrec 1000 120\r\nchp 1\r\nrec 1000 120\r\nchp 0\r\nrec 700 120\r\nchp 1\r\nrec 700 120\r\nbeep 400\r\noff\r\n@"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 24
+      }
+    ],
+    "uuid": [
+      {
+        "value": "4694e3be-31d4-4bdb-888a-0de1a840314f"
+      }
+    ],
+    "vid": [
+      {
+        "value": 660
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2017-09-23T18:22:52+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "\u0141okie\u0107 tenisisty i golfisty"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2017-03-30T19:00:45+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2017-10-13T18:37:30+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp class=\u0022text-align-justify\u0022\u003E\u0026nbsp;Terapia trwaj\u0105ca 3 tygodnie, sk\u0142adaj\u0105ca si\u0119 z 21 sesji, raz dziennie po 30 minut. Cz\u0119stotliwo\u015bci 4,6Hz i 25Hz. Intensywno\u015b\u0107 pola EM wed\u0142ug bada\u0144 klinicznych powinna wynosi\u0107 6mT. (60Gs) \u0026nbsp;Mo\u017cna zastosowa\u0107 cewk\u0119\u0026nbsp;pomara\u0144czow\u0105, dwukrotnie zawini\u0119t\u0105\u0026nbsp;i za\u0142o\u017con\u0105\u0026nbsp;na \u0142okie\u0107 (3,5mT) lub dedykowan\u0105 niebiesk\u0105 (4,4mT). Nie nale\u017cy si\u0119 przejmowa\u0107 nieznacznym zmniejszeniem poziomu indukcji cewek pomara\u0144czowej i niebieskiej w stosunku do opisanej w dokumencie \u017ar\u00f3d\u0142owym. Skuteczno\u015b\u0107 terapii nie zale\u017cy liniowo od intensywno\u015bci aplikowanego pola elektromagnetycznego. Zamiast przez 3 tygodnie po 5 sesji (pon.-pt.) nale\u017cy stosowa\u0107 przez 3 tygodnie codziennie. Skompensuje to mniejsz\u0105 \u003Cem\u003E\u0022moc\u0022\u003C\/em\u003E cewek. Terapia obni\u017ca poziom b\u00f3lu i przyspiesza regeneracj\u0119. Efekt mo\u017cna zauwa\u017cy\u0107 ju\u017c po pierwszej sesji. \u0179r\u00f3d\u0142o: \u003Ca href=\u0022http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/16633709\u0022 target=\u0022_blank\u0022\u003ENCBI\u003C\/a\u003E [03-2017],\u0026nbsp;\u003Ca href=\u0022http:\/\/scholar.google.pl\/scholar_url?url=http%3A%2F%2Fwww.biomag.net%2Ftestsite%2Findex_htm_files%2FPEMF_Effectiveness_in_lateral_epicondylitis.pdf\u0026amp;hl=pl\u0026amp;sa=T\u0026amp;oi=gga\u0026amp;ct=gga\u0026amp;cd=0\u0026amp;ei=YVPdWN7hLYuJmAHSlb7QBA\u0026amp;scisig=AAGBfm2qC2LnMtE9eiKf9Q2QSSk1RtWXeg\u0026amp;nossl=1\u0026amp;ws=1920x955\u0022 target=\u0022_blank\u0022\u003EPDF\u003C\/a\u003E\u0026nbsp;[biomag.net 03-2017]\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u0026nbsp;\u003C\/p\u003E\r\n\r\n\u003Ctable border=\u00221\u0022 cellpadding=\u00221\u0022 cellspacing=\u00221\u0022\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EOznaczenie\u003C\/th\u003E\r\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003ERezystancja [om]\u003C\/th\u003E\r\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003ELiczba zwoj\u00f3w \u0026nbsp;\u003C\/th\u003E\r\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EPromie\u0144 cewki [cm]\u003C\/th\u003E\r\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003E\u015arednica drutu [mm]\u003C\/th\u003E\r\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EIndukcja w impulsie [uT]\u003C\/th\u003E\r\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EIndukcja RMS [uT]\u003C\/th\u003E\r\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EMoc RMS [W]\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003EPomara\u0144czowa\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E9,4\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E102\/204\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E10 \/ 5\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E0,4\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E877 \/ 3500\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E438\/1750\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E7,6\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003ENiebieska\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E8,6\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E240\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E5\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E0,45\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E4400\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E2200\u003C\/td\u003E\r\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E8,4\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n\r\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u0026nbsp;\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp class=\u0022text-align-justify\u0022\u003E\u00a0Terapia trwaj\u0105ca 3 tygodnie, sk\u0142adaj\u0105ca si\u0119 z 21 sesji, raz dziennie po 30 minut. Cz\u0119stotliwo\u015bci 4,6Hz i 25Hz. Intensywno\u015b\u0107 pola EM wed\u0142ug bada\u0144 klinicznych powinna wynosi\u0107 6mT. (60Gs) \u00a0Mo\u017cna zastosowa\u0107 cewk\u0119\u00a0pomara\u0144czow\u0105, dwukrotnie zawini\u0119t\u0105\u00a0i za\u0142o\u017con\u0105\u00a0na \u0142okie\u0107 (3,5mT) lub dedykowan\u0105 niebiesk\u0105 (4,4mT). Nie nale\u017cy si\u0119 przejmowa\u0107 nieznacznym zmniejszeniem poziomu indukcji cewek pomara\u0144czowej i niebieskiej w stosunku do opisanej w dokumencie \u017ar\u00f3d\u0142owym. Skuteczno\u015b\u0107 terapii nie zale\u017cy liniowo od intensywno\u015bci aplikowanego pola elektromagnetycznego. Zamiast przez 3 tygodnie po 5 sesji (pon.-pt.) nale\u017cy stosowa\u0107 przez 3 tygodnie codziennie. Skompensuje to mniejsz\u0105 \u003Cem\u003E\u0022moc\u0022\u003C\/em\u003E cewek. Terapia obni\u017ca poziom b\u00f3lu i przyspiesza regeneracj\u0119. Efekt mo\u017cna zauwa\u017cy\u0107 ju\u017c po pierwszej sesji. \u0179r\u00f3d\u0142o: \u003Ca href=\u0022http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/16633709\u0022 target=\u0022_blank\u0022\u003ENCBI\u003C\/a\u003E [03-2017],\u00a0\u003Ca href=\u0022http:\/\/scholar.google.pl\/scholar_url?url=http%3A%2F%2Fwww.biomag.net%2Ftestsite%2Findex_htm_files%2FPEMF_Effectiveness_in_lateral_epicondylitis.pdf\u0026amp;hl=pl\u0026amp;sa=T\u0026amp;oi=gga\u0026amp;ct=gga\u0026amp;cd=0\u0026amp;ei=YVPdWN7hLYuJmAHSlb7QBA\u0026amp;scisig=AAGBfm2qC2LnMtE9eiKf9Q2QSSk1RtWXeg\u0026amp;nossl=1\u0026amp;ws=1920x955\u0022 target=\u0022_blank\u0022\u003EPDF\u003C\/a\u003E\u00a0[biomag.net 03-2017]\u003C\/p\u003E\n\n\u003Cp class=\u0022text-align-justify\u0022\u003E\u00a0\u003C\/p\u003E\n\n\u003Ctable border=\u00221\u0022 cellpadding=\u00221\u0022 cellspacing=\u00221\u0022\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EOznaczenie\u003C\/th\u003E\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003ERezystancja [om]\u003C\/th\u003E\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003ELiczba zwoj\u00f3w \u00a0\u003C\/th\u003E\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EPromie\u0144 cewki [cm]\u003C\/th\u003E\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003E\u015arednica drutu [mm]\u003C\/th\u003E\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EIndukcja w impulsie [uT]\u003C\/th\u003E\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EIndukcja RMS [uT]\u003C\/th\u003E\n\t\t\t\u003Cth class=\u0022text-align-justify\u0022 scope=\u0022col\u0022\u003EMoc RMS [W]\u003C\/th\u003E\n\t\t\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd class=\u0022text-align-justify\u0022\u003EPomara\u0144czowa\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E9,4\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E102\/204\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E10 \/ 5\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E0,4\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E877 \/ 3500\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E438\/1750\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E7,6\u003C\/td\u003E\n\t\t\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd class=\u0022text-align-justify\u0022\u003ENiebieska\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E8,6\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E240\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E5\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E0,45\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E4400\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E2200\u003C\/td\u003E\n\t\t\t\u003Ctd class=\u0022text-align-justify\u0022\u003E8,4\u003C\/td\u003E\n\t\t\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u00a0\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [],
+    "field_skrypt": [
+      {
+        "value": "#Lokiec tenisisty\r\n#http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/16633709\r\n#cewka pomaranczowa lub niebieska \/ orange or blue coil ~4mT\r\nbeep 200\r\nrec 2500 180\r\nchp 1\r\nrec 2500 180\r\nchp 0\r\nrec 2500 180\r\nchp 1\r\nrec 2500 180\r\nchp 0\r\nrec 2500 180\r\nchp 1\r\nrec 460 180\r\nchp 0\r\nrec 460 180\r\nchp 1\r\nrec 460 180\r\nchp 0\r\nrec 460 180\r\nchp 1\r\nrec 460 180\r\nbeep 200\r\noff\r\n@\r\n"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 22
+      }
+    ],
+    "uuid": [
+      {
+        "value": "87460bf7-ef38-4c41-80e4-71e9f14dd99f"
+      }
+    ],
+    "vid": [
+      {
+        "value": 344
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2017-02-28T15:22:47+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 1,
+        "target_type": "user",
+        "target_uuid": "2e46c057-69fc-42c8-a2b9-7b4e15e61aec",
+        "url": "\/user\/1"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Rehabilitacja z\u0142ama\u0144, uraz\u00f3w staw\u00f3w i wi\u0105zade\u0142"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2017-02-28T15:22:47+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2018-05-26T09:20:54+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp\u003ERehabilitacja po z\u0142amaniach i innych kontuzjach. Stosowa\u0107 \u003Cstrong\u003E2 razy dziennie\u003C\/strong\u003E (rano i wieczorem). Czas trwania 16 minut. \u003Cstrong\u003ECewk\u0119 pomara\u0144czow\u0105 \u003C\/strong\u003E(9,4om) za\u0142o\u017cy\u0107 na ko\u0144czyn\u0119\u0026nbsp;w miejscu urazu. Mo\u017cna cewk\u0119 na\u0142o\u017cy\u0107 podw\u00f3jnie w przypadku nadgarstk\u00f3w lub st\u00f3p.\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Cimg alt=\u0022Stawy\u0022 data-align=\u0022left\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u002260dda8ca-02a3-46c6-9dc4-cfa12180e32c\u0022 height=\u0022137\u0022 src=\u0022https:\/\/biotronika.pl\/sites\/default\/files\/inline-images\/stawy.png\u0022 width=\u0022114\u0022 \/\u003E\u003C\/p\u003E\r\n",
+        "format": "basic_html",
+        "processed": "\u003Cp\u003ERehabilitacja po z\u0142amaniach i innych kontuzjach. Stosowa\u0107 \u003Cstrong\u003E2 razy dziennie\u003C\/strong\u003E (rano i wieczorem). Czas trwania 16 minut. \u003Cstrong\u003ECewk\u0119 pomara\u0144czow\u0105 \u003C\/strong\u003E(9,4om) za\u0142o\u017cy\u0107 na ko\u0144czyn\u0119\u00a0w miejscu urazu. Mo\u017cna cewk\u0119 na\u0142o\u017cy\u0107 podw\u00f3jnie w przypadku nadgarstk\u00f3w lub st\u00f3p.\u003C\/p\u003E\n\n\u003Cp\u003E\u003Cimg alt=\u0022Stawy\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u002260dda8ca-02a3-46c6-9dc4-cfa12180e32c\u0022 height=\u0022137\u0022 src=\u0022\/sites\/default\/files\/inline-images\/stawy.png\u0022 width=\u0022114\u0022 class=\u0022align-left\u0022 \/\u003E\u003C\/p\u003E",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [
+      {
+        "value": 7
+      }
+    ],
+    "field_skrypt": [
+      {
+        "value": "# Stawy i wiazadla\r\n# Czas 16 minut\r\nbeep 200\r\nrec 1000 120\r\nchp 1\r\nrec 1000 120\r\nchp 0\r\nrec 700 120\r\nchp 1\r\nscan 50 120\r\nchp 0\r\nscan 700 120\r\nchp 1\r\nscan 1000 120\r\nchp 0\r\nrec 1500 120\r\nchp 1\r\nrec 2000 120\r\nbeep 200\r\noff\r\n@"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 21
+      }
+    ],
+    "uuid": [
+      {
+        "value": "9b5277d1-1f44-4544-9cfd-0e2ff879aa2c"
+      }
+    ],
+    "vid": [
+      {
+        "value": 341
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2017-02-28T10:08:22+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 1,
+        "target_type": "user",
+        "target_uuid": "2e46c057-69fc-42c8-a2b9-7b4e15e61aec",
+        "url": "\/user\/1"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "Rytm Ziemi"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2017-02-28T10:08:22+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2017-10-13T18:38:27+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp\u003EPodstawowe cz\u0119stotliwo\u015bci pola geomagnetycznego Ziemi i rezonansu Shumanna. Czas trwania 8 minut. \u003Cstrong\u003ECewka zielona 50om lub mata 50om\u003C\/strong\u003E. Stosowa\u0107 co najmniej raz dziennie, szczeg\u00f3lnie w okresach pogorszenia warunk\u00f3w dla meteopat\u00f3w.\u0026nbsp; Aktualny pomiar cz\u0119stotliwo\u015bci Shumanna:\u0026nbsp;\u003Ca class=\u0022colorbox\u0022 href=\u0022http:\/\/sosrff.tsu.ru\/new\/srf.jpg\u0022\u003Erosyjskie obserwatorium\u003C\/a\u003E\u0026nbsp;(czas Tomsk). Przyk\u0142adowy wykres znajduje si\u0119 poni\u017cej:\u003C\/p\u003E\r\n\r\n\u003Cp\u003E.\u003Ca href=\u0022http:\/\/sosrff.tsu.ru\/new\/srf.jpg\u0022 id=\u0022\u0022 rel=\u0022\u0022 target=\u0022_blank\u0022 title=\u0022\u0022\u003E\u003Cimg alt=\u0022Obserwatorium tomsk\u0022 data-align=\u0022left\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u002238eed691-0d53-4e7f-9270-8a60076bb3ff\u0022 height=\u0022203\u0022 src=\u0022\/sites\/default\/files\/inline-images\/srf.jpg\u0022 width=\u0022613\u0022 \/\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003C!--break--\u003E",
+        "format": "full_html",
+        "processed": "\u003Cp\u003EPodstawowe cz\u0119stotliwo\u015bci pola geomagnetycznego Ziemi i rezonansu Shumanna. Czas trwania 8 minut. \u003Cstrong\u003ECewka zielona 50om lub mata 50om\u003C\/strong\u003E. Stosowa\u0107 co najmniej raz dziennie, szczeg\u00f3lnie w okresach pogorszenia warunk\u00f3w dla meteopat\u00f3w.\u00a0 Aktualny pomiar cz\u0119stotliwo\u015bci Shumanna:\u00a0\u003Ca class=\u0022colorbox\u0022 href=\u0022http:\/\/sosrff.tsu.ru\/new\/srf.jpg\u0022\u003Erosyjskie obserwatorium\u003C\/a\u003E\u00a0(czas Tomsk). Przyk\u0142adowy wykres znajduje si\u0119 poni\u017cej:\u003C\/p\u003E\n\n\u003Cp\u003E.\u003Ca href=\u0022http:\/\/sosrff.tsu.ru\/new\/srf.jpg\u0022 id=\u0022\u0022 rel=\u0022\u0022 target=\u0022_blank\u0022 title=\u0022\u0022\u003E\u003Cimg alt=\u0022Obserwatorium tomsk\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u002238eed691-0d53-4e7f-9270-8a60076bb3ff\u0022 height=\u0022203\u0022 src=\u0022\/sites\/default\/files\/inline-images\/srf.jpg\u0022 width=\u0022613\u0022 class=\u0022align-left\u0022 \/\u003E\u003C\/a\u003E\u003C\/p\u003E\n\u003C!--break--\u003E",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [],
+    "field_skrypt": [
+      {
+        "value": "# Rytm Ziemi\r\n# Czas 8 minut\r\nbeep 200\r\nrec 1178 120\r\nchp 1\r\nrec 1178 120\r\nchp 0\r\nrec 783 120\r\nchp 1\r\nrec 783 120\r\nbeep 200\r\noff\r\n@\r\n"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      },
+      {
+        "value": "multiZAP++"
+      }
+    ]
+  },
+  {
+    "nid": [
+      {
+        "value": 20
+      }
+    ],
+    "uuid": [
+      {
+        "value": "36abce82-0ce8-4ef1-a8fc-425564b2f176"
+      }
+    ],
+    "vid": [
+      {
+        "value": 340
+      }
+    ],
+    "langcode": [
+      {
+        "value": "pl"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "terapia",
+        "target_type": "node_type",
+        "target_uuid": "1e5b5266-c4bc-4431-83f3-68ead5a86829"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "2017-02-28T09:47:38+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": 1,
+        "target_type": "user",
+        "target_uuid": "2e46c057-69fc-42c8-a2b9-7b4e15e61aec",
+        "url": "\/user\/1"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "title": [
+      {
+        "value": "B\u00f3le krzy\u017ca, rwa kulszowa, zapalenie k\u0142\u0119buszk\u00f3w nerwowych"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": 30,
+        "target_type": "user",
+        "target_uuid": "9953fb2b-4f65-4201-9b1b-cfcaca63e698",
+        "url": "\/user\/30"
+      }
+    ],
+    "created": [
+      {
+        "value": "2017-02-28T09:47:38+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "changed": [
+      {
+        "value": "2017-10-21T18:23:09+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "promote": [
+      {
+        "value": false
+      }
+    ],
+    "sticky": [
+      {
+        "value": false
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "path": [
+      {
+        "alias": null,
+        "pid": null,
+        "langcode": "pl"
+      }
+    ],
+    "content_translation_source": [],
+    "content_translation_outdated": [],
+    "body": [
+      {
+        "value": "\u003Cp class=\u0022text-align-justify\u0022\u003EW pierwszej\u003Cstrong\u003E \u003C\/strong\u003Edobie stosowa\u0107 od 6 do 8 razy z przerw\u0105 od 30 do 60 minut. W nast\u0119pnych dniach od \u003Cstrong\u003E3 do 6\u003C\/strong\u003E razy dziennie. Czas trwania jednej sesji wynosi 16 minut. Do terapii nale\u017cy u\u017cywa\u0107 \u003Cstrong\u003Ecewk\u0119 czerwon\u0105\u003C\/strong\u003E 0,49mT\u003Cstrong\u003E \u003C\/strong\u003Elub \u003Cstrong\u003Epomara\u0144czow\u0105 \u003C\/strong\u003E0,88mT (niezwini\u0119t\u0105) , kt\u00f3r\u0105 przyk\u0142ada si\u0119 do bol\u0105cego miejsca. \u003Cstrong\u003EStosowa\u0107 przez 7 do 14 dni\u003C\/strong\u003E. W sk\u0142ad terapii wchodz\u0105 nast\u0119puj\u0105ce cz\u0119stotliwo\u015bci:\u003C\/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E15Hz, 20Hz \u2013 uk\u0142ad krwiono\u015bny,\u003C\/li\u003E\r\n\t\u003Cli\u003E7Hz \u2013 ko\u015bci,\u003C\/li\u003E\r\n\t\u003Cli\u003E2Hz - uk\u0142ad nerwowy.\u003C\/li\u003E\r\n\u003C\/ul\u003E\r\n\r\n\u003Cp\u003EZmiana kierunku pola EM nast\u0119puje co 2 minuty.\u003C\/p\u003E\r\n",
+        "format": "full_html",
+        "processed": "\u003Cp class=\u0022text-align-justify\u0022\u003EW pierwszej\u003Cstrong\u003E \u003C\/strong\u003Edobie stosowa\u0107 od 6 do 8 razy z przerw\u0105 od 30 do 60 minut. W nast\u0119pnych dniach od \u003Cstrong\u003E3 do 6\u003C\/strong\u003E razy dziennie. Czas trwania jednej sesji wynosi 16 minut. Do terapii nale\u017cy u\u017cywa\u0107 \u003Cstrong\u003Ecewk\u0119 czerwon\u0105\u003C\/strong\u003E 0,49mT\u003Cstrong\u003E \u003C\/strong\u003Elub \u003Cstrong\u003Epomara\u0144czow\u0105 \u003C\/strong\u003E0,88mT (niezwini\u0119t\u0105) , kt\u00f3r\u0105 przyk\u0142ada si\u0119 do bol\u0105cego miejsca. \u003Cstrong\u003EStosowa\u0107 przez 7 do 14 dni\u003C\/strong\u003E. W sk\u0142ad terapii wchodz\u0105 nast\u0119puj\u0105ce cz\u0119stotliwo\u015bci:\u003C\/p\u003E\n\n\u003Cul\u003E\u003Cli\u003E15Hz, 20Hz \u2013 uk\u0142ad krwiono\u015bny,\u003C\/li\u003E\n\t\u003Cli\u003E7Hz \u2013 ko\u015bci,\u003C\/li\u003E\n\t\u003Cli\u003E2Hz - uk\u0142ad nerwowy.\u003C\/li\u003E\n\u003C\/ul\u003E\u003Cp\u003EZmiana kierunku pola EM nast\u0119puje co 2 minuty.\u003C\/p\u003E\n",
+        "summary": ""
+      }
+    ],
+    "field_biozap_buttons": [
+      {
+        "value": "\u003C?php\r\ninclude \u0027\/modules\/biozap\/biozap_dowload_buttons.php\u0027;\r\n?\u003E",
+        "format": "php_code",
+        "processed": "\u003Cp\u003E\u003Ca href=\u0027\/download.php?nodeid=0\u0027 class=\u0027button button-action\u0027\u003E Pobierz skrypt terapii \u003C\/a\u003E \u0026nbsp; \u0026nbsp; \u0026nbsp; \u003Ca href=\u0027\/modules\/biozap\/CH341SER.zip\u0027\u003EInstaluj\u0026nbsp;sterownik\u0026nbsp;Arduino\u003Csup\u003E*\u003C\/sup\u003E\u003C\/a\u003E\u003C\/p\u003E\r\n\u003Cscript type=\u0022text\/javascript\u0022\u003E\r\n\r\n\tfunction toggleTable() {\r\n\r\n\tvar lTable = document.getElementById(\u0022infoHelp\u0022);\r\n\r\n\tlTable.style.display = (lTable.style.display == \u0022table\u0022) ? \u0022none\u0022 : \u0022table\u0022;}\r\n\r\n \u003C\/script\u003E\r\n\u003Cp\u003E (*) Sterownik Arduino zainstaluj tylko raz\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Ca href=\u0022#infoHelp\u0022 onclick=\u0022toggleTable();\u0022\u003EPoka\u017c pomoc...\u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Ctable id=\u0022infoHelp\u0022 style=\u0022display:none; border-style:hidden; width:100%;\u0022\u003E\r\n\t\u003Ctr\u003E\u003Ctd\u003E\r\n\r\n\t\t\u003Cp\u003E 1. \u003Cb\u003EPobierz skrypt terapii\u003C\/b\u003E. Nast\u0119pnie otw\u00f3rz archiwum \u003Cb\u003Eterapia.zip\u003C\/b\u003E i uruchom plik \u003Cb\u003Eterapia.cmd\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 2. Je\u015bli uruchomi si\u0119 \u003Cb\u003EFiltr SmartScreen us\u0142ugi Defender \u003C\/b\u003E to wybierz: \u003Cb\u003EWi\u0119cej informacji\u003C\/b\u003E -\u003E \u003Cb\u003EUruchom\u0026nbsp;mimio\u0026nbsp;to\u003C\/b\u003E \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 3. Pod\u0142\u0105cz swoje urz\u0105dzenie do portu USB\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 4. Poczekaj, a\u017c urz\u0105dzenie si\u0119 w\u0142\u0105czy. Dla free-PEMF zapali si\u0119 zielona dioda, \u003Cbr\/\u003E\r\n\t\t\t\u0026nbsp; \u0026nbsp; \u0026nbsp a dla multiZAP ekran powitalny. \u003Cb\u003ENaci\u015bnij [#]\u003C\/b\u003E w multiZAP. \u003C\/p\u003E\r\n\t\t\u003Cp\u003E 5. Wpisz numer portu COM i naci\u015bnij ENTER\u003C\/p\u003E\r\n\t\t\u003Cp\u003E 6. Skrypt pow\u0142oki \u003Cb\u003Eterapia.cmd\u003C\/b\u003E za\u0142aduje wybran\u0105 terapi\u0119 do twojego urz\u0105dzenia.\u003C\/p\u003E\r\n\t\t\r\n\t\t\u003Cp\u003E \u003Ca target=\u0022_blank\u0022 href=\u0022\/modules\/biozap\/download_help_pl.pdf\u0022\u003E Wi\u0119cej informacji znajdzesz w dokumencie... \u003C\/a\u003E \u003C\/p\u003E\r\n\r\n\t\u003C\/td\u003E\u003C\/tr\u003E\r\n\u003C\/table\u003E\r\n"
+      }
+    ],
+    "field_dni_do_potwierdzenia_skute": [],
+    "field_skrypt": [
+      {
+        "value": "# Bolace plecy\r\n# Czas 16 minut\r\nbeep 200\r\nrec 700 120\r\nchp 1\r\nrec 200 120\r\nchp 0\r\nrec 700 120\r\nchp 1\r\nrec 200 120\r\nchp 0\r\nrec 1500 120\r\nchp 1\r\nrec 2000 120\r\nchp 0\r\nrec 700 120\r\nchp 1\r\nrec 200 120\r\nbeep 200\r\noff\r\n@\r\n\r\n\r\n"
+      }
+    ],
+    "field_urzadzenie": [
+      {
+        "value": "free-PEMF"
+      }
+    ]
+  }
+]

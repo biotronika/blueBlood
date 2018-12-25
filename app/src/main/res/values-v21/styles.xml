@@ -1,0 +1,9 @@
+<resources>
+    <style name="AppTheme" parent="AppTheme.Base">
+
+        <item name="android:windowActivityTransitions">false</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="android:searchViewStyle">@style/AppTheme.SearchView</item>
+
+    </style>
+</resources>

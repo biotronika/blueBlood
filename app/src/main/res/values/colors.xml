@@ -1,0 +1,30 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <color name="light_grey">#ddd</color>
+    <color name="dark_grey">#424242</color>
+    <color name="medium_grey">#9E9E9E</color>
+    <color name="button_grey">#757575</color>
+
+    <color name="colorPrimary">#fffafafa</color>
+    <color name="colorPrimaryIntermediate">#fffafafa</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorBackground">#fffaffff</color>
+    <color name="colorAccent">#3f51b5</color>
+    <!--<color name="colorAccent">#1976D2</color>-->
+    <color name="colorIcon">#3f51b5</color>
+
+
+    <!--<color name="colorPrimary">#757575</color>-->
+    <!--<color name="colorPrimaryDark">#424242</color>-->
+    <!--<color name="colorAccent">#ffab40</color>-->
+
+
+    <color name="green">#7cb342</color>
+    <color name="red">#d32f2f</color>
+    <color name="blue">#3f51b5</color>
+    <color name="yellow">#ffab40</color>
+
+</resources>

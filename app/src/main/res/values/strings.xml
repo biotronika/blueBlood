@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">Blue Blood</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_title">Example title</string>
+    <string name="item_desc">Example description</string>
+    <string name="detail_desc">Example detail</string>
+    <string name="script">script</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="script_label">Script</string>
+    <string name="description_label">Description</string>
+    <string name="devices">Devices</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_bluetooth">Bluetooth</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_close">Close</string>
+    <string name="details_activity">Details</string>
+    <string name="search_title">Search therapy</string>
+    <string name="search_hint">Search therapy</string>
+    <string name="tab_device">Device</string>
+    <string name="tab_therapies">Therapies</string>
+
+    <string-array name="pref_list_type">
+        <item>List</item>
+        <item>Cards</item>
+    </string-array>
+
+    <string-array name="pref_device_type">
+        <item>HC-05</item>
+        <item>freePEMF</item>
+        <item>multiZAP++</item>
+    </string-array>
+
+    <string-array name="pref_list_type_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="pref_device_type_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>
