@@ -8,13 +8,13 @@ public class Vid {
 
     @SerializedName("value")
     @Expose
-    private int value;
+    private Integer value;
 
-    public int getValue() {
+    public Integer getValue() {
         return value;
     }
 
-    public void setValue(int value) {
+    public void setValue(Integer value) {
         this.value = value;
     }
 

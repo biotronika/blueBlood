@@ -8,13 +8,13 @@ public class Promote {
 
     @SerializedName("value")
     @Expose
-    private boolean value;
+    private Boolean value;
 
-    public boolean isValue() {
+    public Boolean getValue() {
         return value;
     }
 
-    public void setValue(boolean value) {
+    public void setValue(Boolean value) {
         this.value = value;
     }
 

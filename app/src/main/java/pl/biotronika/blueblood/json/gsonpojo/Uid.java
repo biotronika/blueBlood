@@ -8,7 +8,7 @@ public class Uid {
 
     @SerializedName("target_id")
     @Expose
-    private int targetId;
+    private Integer targetId;
     @SerializedName("target_type")
     @Expose
     private String targetType;
@@ -19,11 +19,11 @@ public class Uid {
     @Expose
     private String url;
 
-    public int getTargetId() {
+    public Integer getTargetId() {
         return targetId;
     }
 
-    public void setTargetId(int targetId) {
+    public void setTargetId(Integer targetId) {
         this.targetId = targetId;
     }
 

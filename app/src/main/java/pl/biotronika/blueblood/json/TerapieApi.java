@@ -46,7 +46,7 @@ public class TerapieApi {
     public static List<Terapia> getTerapie() {
 
         if (null == terapie) {
-            terapie = getTerapieLocal();
+            terapie = getTerapieRemote();
         }
         return terapie;
     }
